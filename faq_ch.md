@@ -2,7 +2,8 @@
 # 常见问题
 
 ## 1. 我是xx月xx号寄到的, 现在没有收到receipt, 怎么办?
-### - 回答：查看check/money order是否有被cash。
+### - 回答：
+查看check/money order是否有被cash。
 ## 2. 去哪里查看最新的OPT消息？
 ## 3. 今天的case approve情况？
 ## 4. 我的Check/MoneyOrder超过90天了怎么办
