@@ -1,7 +1,7 @@
 [首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
 # 常见问题
 
-## 1. 我是xx月xx号寄到的, 现在没有收到receipt, 怎么办?
+## 1. 我是xx月xx号寄到的, 现在没有收到receipt number, 怎么办?
 ### - 回答：
 查看Deliver是否正常，确认材料已经Delivered
 查看Check/money order是否有被cash
