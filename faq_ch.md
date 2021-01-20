@@ -3,9 +3,17 @@
 
 ## 1. 我是xx月xx号寄到的, 现在没有收到receipt, 怎么办?
 ### - 回答：
-查看check/money order是否有被cash。
+查看Deliver是否正常，确认材料已经Delivered
+查看Check/money order是否有被cash
+1. 如果是cashier check， 可以给银行打电话或者去银行问 提供cashier check 的number就可以查到
+
+2. 如果是Money order，来自USPS或者MoneyGram可以去他们网站查到
+问Emma，通过ask Emma转人工服务查询receipt number，在对话框打入Chat to live representatives。
+
 ## 2. 去哪里查看最新的OPT消息？
+
 ## 3. 今天的case approve情况？
+
 ## 4. 我的Check/MoneyOrder超过90天了怎么办
 ### - 回答：
 不用担心, 只要账户中的钱没有被取出/没有申请MO的replacement, 一年内USCIS都可以cash
