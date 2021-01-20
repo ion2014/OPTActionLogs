@@ -1,5 +1,6 @@
-## 申请自查列表(updated Jan/19/2021)
 [首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
+## 申请自查列表(updated Jan/19/2021)
+
 ### 基本信息是否正确
 名字/护照号码/联系方式/SSN
 

@@ -1,5 +1,5 @@
-# 行动日志
 [首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
+# 行动日志
 自从12月中到现在, 我们已经尝试过的手段有（倒序）:
 
 ### 寻求律师援助
