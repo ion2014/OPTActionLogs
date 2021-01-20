@@ -19,3 +19,6 @@ Amount: $410
 Check/MO: Is receiver "US Department of Homeland Security" ?
 
 G1450: Credit Card Type & number/Expiration Date/Contact Address
+
+### CPT/OPT infomation
+Is past CPT/OPT info included in the last page(if you have), or include all i-20s

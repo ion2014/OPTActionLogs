@@ -13,3 +13,6 @@ STEM OPT Extension: (c)(3)(c)
 金额: $410
 Check/MO: 收款人是否为 US Department of Homeland Security
 G1450: 信用卡类型/过期时间/地址信息是否正确
+
+### 是否包括CPT
+在最后一页补充CPT信息并签名, 如果没有, 至少保证所有的i-20都包含在信封里
