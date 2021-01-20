@@ -14,19 +14,24 @@
 问Emma，通过ask Emma转人工服务查询receipt number，在对话框打入Chat to live representatives。
 
 ## 2. 去哪里查看最新的OPT消息？
+### - 回答：
 
 ## 3. 今天的case approve情况？
+### - 回答：
 OPT Timeline： https://opttimeline.com/
+
 OPT Receipt Monitor： https://www.optreceiptmonitor.com/
 
 ## 4. 我的Check/MoneyOrder超过90天了怎么办
 ### - 回答：
 不用担心, 只要账户中的钱没有被取出/没有申请MO的replacement, 一年内USCIS都可以cash
+
 ## 5. 如何通过EMMA / USCIS contact Number 转人工?
 ### - 回答：
 EMMA: request infopass
 
 Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center(说lockbox会让你发邮件) -> It's been more than 30 days -> yes it was delivered
+
 ## 6. 我已经寄了一份OPT申请寄到AZ/TX，可以再寄一份到Chicago lockbox吗？
 ### - 回答：
 我们了解到各学校DSO的回复都是不建议这样做，材料没有问题不建议寄第二份！这样可能出现的风险有：
