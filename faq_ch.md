@@ -4,7 +4,9 @@
 ## 1. 我是xx月xx号寄到的, 现在没有收到receipt number, 怎么办?
 ### - 回答：
 查看Deliver是否正常，确认材料已经Delivered
+
 查看Check/money order是否有被cash
+
 1. 如果是cashier check， 可以给银行打电话或者去银行问 提供cashier check 的number就可以查到
 
 2. 如果是Money order，来自USPS或者MoneyGram可以去他们网站查到
@@ -14,6 +16,8 @@
 ## 2. 去哪里查看最新的OPT消息？
 
 ## 3. 今天的case approve情况？
+OPT Timeline： https://opttimeline.com/
+OPT Receipt Monitor： https://www.optreceiptmonitor.com/
 
 ## 4. 我的Check/MoneyOrder超过90天了怎么办
 ### - 回答：
@@ -21,6 +25,7 @@
 ## 5. 如何通过EMMA / USCIS contact Number 转人工?
 ### - 回答：
 EMMA: request infopass
+
 Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center(说lockbox会让你发邮件) -> It's been more than 30 days -> yes it was delivered
 ## 6. 我已经寄了一份OPT申请寄到AZ/TX，可以再寄一份到Chicago lockbox吗？
 ### - 回答：
@@ -31,12 +36,14 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 2. 如果两份都拿到的receipt, 并且都进入系统进行处理，万一在grace period或者stem 180 days extension 期间其中一份被deny，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval. (我因为要重寄的话I-20 会卡在过期前1到2天寄到，看到很多人receipt时间会有前后1到2天的误差，所以担心第二份因为违反I-20 60 days rule被deny导致第二种情况的发生）
 
 3. 如果两份都拿到的receipt, 并且都进入系统进行处理， 有学校的DSO说 "Submitting two applications is against immigration regulations. If two applications are in the system, it could result in an automatic rejection/denial for both"
+
 不论什么情况，不要擅自re-file你们的opt，任何情况直接联系学校的DSO，他们会去帮你们找uscis！
 
 ## 7. 在什么情况下我可以重新寄一份OPT申请
 ### - 回答：
 首先，不要擅自re-file的opt，先直接联系学校的DSO，问他们是否可行！
-结合上面三种可能的风险，我们认为如果你满足以下几种情况，寄出第二份可能会相对风险较小:
+
+结合上面三种可能的风险，我们认为如果你满足以下几种情况，寄出第二份**可能**会相对风险较小:
 
 1. 首先如果你的i-20 不能超过30/60 天， 再没有明确拿到rejection的情况下重开i-20的再寄的风险很大，因为第一份申请不会被rej （if 你没有用错表格或者通过取消check等方式让他被rej），而是在进入系统后会被deny，如果那时候你第二份也进入了系统，很可能在第二份process期间你的第一份就被deny了，sevis record会有被直接terminate 的risk。
 
