@@ -14,7 +14,7 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 1. 如果两份都拿到的receipt，最后withdraw其中一份，有风险会导致两份都被withdraw (具体例子: http://forum.desiopt.com/showthread.php/6245-Duplicate-OPT-Stem-application)
 2. 如果两份都拿到的receipt, 并且都进入系统进行处理，万一在grace period或者stem 180 days extension 期间其中一份被deny，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval. (我因为要重寄的话I-20 会卡在过期前1到2天寄到，看到很多人receipt时间会有前后1到2天的误差，所以担心第二份因为违反I-20 60 days rule被deny导致第二种情况的发生）
 3. 如果两份都拿到的receipt, 并且都进入系统进行处理， 有学校的DSO说 "Submitting two applications is against immigration regulations. If two applications are in the system, it could result in an automatic rejection/denial for both"
-不论什么情况，不要擅自re-file你们的opt，任何情况直接联系学校的ogs，他们会去帮你们找uscis！
+不论什么情况，不要擅自re-file你们的opt，任何情况直接联系学校的DSO，他们会去帮你们找uscis！
 
 ### 在什么情况下我可以重新寄一份OPT申请
 首先，不要擅自re-file的opt，先直接联系学校的DSO，问他们是否可行！
