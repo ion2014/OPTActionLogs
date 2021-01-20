@@ -25,9 +25,9 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 ### - 回答：
 首先，不要擅自re-file的opt，先直接联系学校的DSO，问他们是否可行！
 结合上面三种可能的风险，我们认为如果你满足以下几种情况，寄出第二份可能会相对风险较小:
-(1) 首先如果你的i-20 不能超过30/60 天， 再没有明确拿到rejection的情况下重开i-20的再寄的风险很大，因为第一份申请不会被rej （if 你没有用错表格或者通过取消check等方式让他被rej），而是在进入系统后会被deny，如果那时候你第二份也进入了系统，很可能在第二份process期间你的第一份就被deny了，sevis record会有被直接terminate 的risk。
-(2) 第一份可以确保被lockbox reject, 从而可以保证最后系统里只有一份申请 (因为check金额不对，或者使用了旧的I-765表。 用personal check的朋友可以想办法阻止第一份申请的交易, 但取消check也会有风险。用cashier check 或者 money order的朋友请三思，这两种payment应该是不能取消，最后大概率会导致两份申请进入系统);
-(3) 两份申请都要确保万无一失，如果不能确定第二份最后能不能算在60天内寄到，就有第二份被deny的风险，那么同上，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval.
+1. 首先如果你的i-20 不能超过30/60 天， 再没有明确拿到rejection的情况下重开i-20的再寄的风险很大，因为第一份申请不会被rej （if 你没有用错表格或者通过取消check等方式让他被rej），而是在进入系统后会被deny，如果那时候你第二份也进入了系统，很可能在第二份process期间你的第一份就被deny了，sevis record会有被直接terminate 的risk。
+2. 第一份可以确保被lockbox reject, 从而可以保证最后系统里只有一份申请 (因为check金额不对，或者使用了旧的I-765表。 用personal check的朋友可以想办法阻止第一份申请的交易, 但取消check也会有风险。用cashier check 或者 money order的朋友请三思，这两种payment应该是不能取消，最后大概率会导致两份申请进入系统);
+3. 两份申请都要确保万无一失，如果不能确定第二份最后能不能算在60天内寄到，就有第二份被deny的风险，那么同上，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval.
 
 ## 8. 参加集体诉讼会对我们未来的visa产生影响吗？
 ### - 律师回答：
