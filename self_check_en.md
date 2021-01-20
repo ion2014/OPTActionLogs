@@ -3,23 +3,19 @@
 
 ### Basic information
 
-Name/Passport Number/Contact info/SSN
+Name/Passport Number/Contact info/SSN\\
 
-### Is your i-765 Signed? Does it fits in the sign box?
-
+### Is your i-765 Signed?
 
 ### Did you choose the correct category?
 
-Initial OPT: (c)(3)(b)
+Initial OPT: (c)(3)(b) \\
+STEM OPT Extension: (c)(3)(c) \\
 
-STEM OPT Extension: (c)(3)(c) 
+### Correct payment infomation?
+Amount: $410\\
+Check/MO: Is receiver "US Department of Homeland Security" ?\\
+G1450: Credit Card Type & number/Expiration Date/Contact Address\\
 
-### Payment infomation
-Amount: $410
-
-Check/MO: Is receiver "US Department of Homeland Security" ?
-
-G1450: Credit Card Type & number/Expiration Date/Contact Address
-
-### CPT/OPT infomation
-Is past CPT/OPT info included in the last page(if you have), or include all i-20s
+### Correct CPT/OPT infomation?
+Is past CPT/OPT(if you had) info included and signed in the last page, or all i-20s included?
