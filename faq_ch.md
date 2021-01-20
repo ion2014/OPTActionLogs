@@ -6,7 +6,8 @@
 ## 2. 去哪里查看最新的OPT消息？
 ## 3. 今天的case approve情况？
 ## 4. 我的Check/MoneyOrder超过90天了怎么办
-### - 回答：不用担心, 只要账户中的钱没有被取出/没有申请MO的replacement, 一年内USCIS都可以cash
+### - 回答：
+不用担心, 只要账户中的钱没有被取出/没有申请MO的replacement, 一年内USCIS都可以cash
 ## 5. 如何通过EMMA / USCIS contact Number 转人工?
 ### - 回答：
 EMMA: request infopass
