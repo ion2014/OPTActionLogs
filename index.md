@@ -1,12 +1,6 @@
-## Welcome to GitHub Pages
+## OPT Action Logs
 
-You can use the [editor on GitHub](https://github.com/ion2014/OPTActionLogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before you viewing any logs after, pls first check your [self_check](https://ion2014.github.io/OPTActionLogs/self_check_en), if there's anything wrong with your application, contact your OISSS to get a new I-20(if the former one exceeds 30 days) and resubmit.
 
 
 ```markdown
