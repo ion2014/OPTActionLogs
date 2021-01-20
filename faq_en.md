@@ -1,6 +1,7 @@
 # Frequently Asked Questions
 
 ## 1. What can I do next if I delivered my application XXX weeks ago, but still haven't got a receipt?
+### - Answer: Check if the check/money order has been cashed.  
 
 ## 2. Where can I look up the most recent updates on OPT application processing?
 
