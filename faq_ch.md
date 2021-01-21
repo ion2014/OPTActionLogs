@@ -56,7 +56,70 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 
 3. 两份申请都要确保万无一失，如果不能确定第二份最后能不能算在60天内寄到，就有第二份被deny的风险，那么同上，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval.
 
-## 8. 参加集体诉讼会对我们未来的visa产生影响吗？
+## 8.什么是REF，Rejection,和Denial?
+
+***REF(Requests for Evidence)***
+Requests for evidence (RFE) are sent to students
+when there is a relatively minor correction or
+clarification (additional information)that needs to be
+made. These can include:
+
+1. Passports that have less than 6 months of
+validity or expired passports
+
+2. You filled out a particular section of the I765 incorrectly or not at all (e.g., I-94
+number was incorrect or you forgot to add
+your most recent date of entry into the U.S.)
+
+3. Information on I-94/I-20 is inconsistent or
+incorrect (e.g., incorrect name order, wrong
+visa class, etc.)
+
+4. Your photos are older than 30 days or are of
+poor quality
+
+5. You need to prove that you fulfilled your
+eligibility requirements for OPT (i.e., you will
+be asked to submit an academic transcript
+to USCIS)
+
+6. Your photo ID could not be confirmed
+
+***Rejection***
+A rejection occurs when the USCIS Lockbox (mailing) Facility sends back your entire
+OPT application packet without sending it to a Service Center for processing. Potential
+reasons why:
+1. Your check or other payment method failed*
+
+2. You did not sign your form I-765
+
+3. Your OPT application packet is missing several required documents
+
+4. You did not select a reason for applying (the very first question on the I-765)
+
+5. Outdated edition of I-765 (please go directly to the USCIS website to
+download the most recent version of the I-765 each time you apply.)
+
+***Please note that USCIS DOES NOT process your payment for a rejection***.
+
+***Denial***
+A denial occurs when your OPT application packet is sent to a Service Center for
+adjudication (processing) and the adjudicator discovers that you’re unequivocally
+ineligible for OPT. Potential reasons why:
+1. You submitted your application packet to USCIS more than 30 days AFTER
+the date ISSS issued your I-20.
+2. You’ve already been approved for OPT at the same degree level (only one
+OPT authorization per degree level).
+3. You clearly have not met your eligibility requirements (i.e., one academic
+year of full-time studies)
+4. You applied for OPT after the 60-day grace period expired
+
+***Note: USCIS will process your payment for a denial***
+
+
+
+
+## 9. 参加集体诉讼会对我们未来的visa产生影响吗？
 ### - 律师回答：
 经常有人问我们这个问题，这是一个普遍关注的问题。我们从未见过USCIS会因为有人提起诉讼或与诉讼有关联而采取对诉讼人的不利行动。通常情况下，他们会优先处理诉讼人的申请，以减轻诉讼费用，从而解决集体诉讼案件。尽管我们不能保证永远不会有任何不良影响，但是我们过去从未见过这种情况。我认为，如果没有其他原因，诉讼人在移民局的文档不会被留下污点。
 
