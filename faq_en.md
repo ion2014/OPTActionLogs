@@ -1,3 +1,6 @@
+[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[English](https://ion2014.github.io/OPTActionLogs/faq_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/faq_ch)
+
 # Frequently Asked Questions
 
 ## 1. What can I do next if I delivered my application XXX weeks ago, but still haven't got a receipt?
