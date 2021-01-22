@@ -1,4 +1,5 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
+[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[English](https://ion2014.github.io/OPTActionLogs/faq_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/faq_ch)
 # 常见问题
 
 ## 1. 我是xx月xx号寄到的, 现在没有收到receipt number, 怎么办?
