@@ -43,58 +43,62 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 2. 第一份可以确保被lockbox reject, 从而可以保证最后系统里只有一份申请 (因为check金额不对，或者使用了旧的I-765表。 用personal check的朋友可以想办法阻止第一份申请的交易, 但取消check也会有风险。用cashier check 或者 money order的朋友请三思，这两种payment应该是不能取消，最后大概率会导致两份申请进入系统);\
 3. 两份申请都要确保万无一失，如果不能确定第二份最后能不能算在60天内寄到，就有第二份被deny的风险，那么同上，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval.<br/>
 
-## 8.什么是REF，Rejection,和Denial?
-### - 回答：
+## 8.什么是REF, Rejection, 和Denial?
+### - 回答：<br/>
+回答来源：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
 ***REF(Requests for Evidence)***<br/>
-Requests for evidence (RFE) are sent to students when there is a relatively minor correction or clarification (additional information)that needs to be made. These can include:<br/>
-1. Passports that have less than 6 months of validity or expired passports<br/>
-2. You filled out a particular section of the I765 incorrectly or not at all (e.g., I-94 number was incorrect or you forgot to add your most recent date of entry into the U.S.)<br/>
-3. Information on I-94/I-20 is inconsistent or incorrect (e.g., incorrect name order, wrong visa class, etc.)<br/>
-4. Your photos are older than 30 days or are of poor quality<br/>
-5. You need to prove that you fulfilled your eligibility requirements for OPT (i.e., you will be asked to submit an academic transcript to USCIS)<br/>
-6. Your photo ID could not be confirmed<br/>
-***Note: It’s at USCIS’s discretion to issue the student an RFE. The adjudicator (processor of your application) may either issue an RFE or deny your application if there are errors or missing information***<br/>
+当需要进行相对较小的更正或澄清（附加信息）时，会向学生发送证据请求（RFE）。这些可以包括：<br/>
+1.有效期少于六个月或护照过期的护照<br/>
+2.您未正确填写或完全不填写I765的特定部分（例如，I-94号不正确，或者您忘记添加最近的进入美国日期）
+3. I-94 / I-20上的信息不一致或不正确（例如，姓名顺序错误，签证类别错误等）<br/>
+4.您的照片已超过30天或质量不佳<br/>
+5.您需要证明自己符合OPT的资格要求（即，将要求您向USCIS提交学术成绩单）<br/>
+6.无法确认您的照片ID <br/>
+***注意：由USCIS决定向学生发出RFE。如果有错误或信息遗漏，仲裁人（processor of your application）可以发出RFE或拒绝您的申请。*** <br/>
 
 ***Rejection***<br/>
-A rejection occurs when the USCIS Lockbox (mailing) Facility sends back your entire OPT application packet without sending it to a Service Center for processing. Potential reasons why:<br/>
-1. Your check or other payment method failed<br/>
-2. You did not sign your form I-765<br/>
-3. Your OPT application packet is missing several required documents<br/>
-4. You did not select a reason for applying (the very first question on the I-765)<br/>
-5. Outdated edition of I-765 (please go directly to the USCIS website to download the most recent version of the I-765 each time you apply.)<br/>
-***Please note that USCIS DOES NOT process your payment for a rejection***.
+当USCIS密码箱（邮件）设施将您的整个OPT应用程序包发送回而不将其发送到服务中心进行处理时，就会被拒绝。可能原因：<br/>
+1.您的支票或其他付款方式失败<br/>
+2.您没有在I-765表格上签名<br/>
+3.您的OPT申请数据包缺少一些必需的文件<br/>
+4.您没有选择申请理由（I-765上的第一个问题）<br/>
+5. I-765的过时版本（每次申请时，请直接访问USCIS网站下载I-765的最新版本。）<br/>
+***请注意，对于Rejection，移民局不会处理您的付款***。
 
 ***Denial***<br/>
-A denial occurs when your OPT application packet is sent to a Service Center for adjudication (processing) and the adjudicator discovers that you’re unequivocally ineligible for OPT. Potential reasons why:<br/>
-1. You submitted your application packet to USCIS more than 30 days AFTER the date ISSS issued your I-20.<br/>
-2. You’ve already been approved for OPT at the same degree level (only one OPT authorization per degree level).<br/>
-3. You clearly have not met your eligibility requirements (i.e., one academic year of full-time studies)<br/>
-4. You applied for OPT after the 60-day grace period expired<br/>
-***Note: USCIS will process your payment for a denial***<br/>
+当您的OPT申请数据包发送到服务中心进行裁决（处理）时，仲裁员会发现您完全没有资格获得OPT资格。可能原因：<br/>
+1.您在ISSS签发I-20日期后的30天内将申请数据包提交给了USCIS。<br/>
+2.您已经获得同一学位级别的OPT批准（每个学位级别仅一个OPT授权）。<br/>
+3.您显然没有达到您的资格要求（即一学年的全日制学习）<br/>
+4.您在60天宽限期到期后申请了OPT <br/>
+***注意：对于Denial，USCIS将处理您的付款*** <br/>
 
 
-## 9. 如果OPT申请被REF，Rejection,Denial怎么办？
-***Note: ALWAYS TALK TO YOUR SCHOOL DSO BEFORE RESPONDING TO AN RFE, REJECTION, OR DENIAL!!!***<br/>
-***Responding to an RFE:***<br/>
-1. Do EXACTLY what the RFE instructs (e.g., it will tell you specifically what you need to redo or submit, do not submit more documents than necessary!!)<br/>
-2. Make sure to include the entire cover letter of the RFE on top of your new document submission.<br/>
-3. Submit directly to the address on the RFE<br/>
-4. As with rejections and denials, your OPT application will be delayed as a result and your total OPT authorization period may be reduced<br/>
-***Note:<br/>PLEASE RESPOND WITHIN THE INDICATED TIMEFRAME ON THE RFE, WHICH IS APPROXIMATELY 30 TO 90 DAYS.<br/>
-RESPOND AS SOON AS POSSIBLE TO AVOID DELAYING YOUR OPT APPLICATION FURTHER***
+## 9. 如果OPT申请被REF, Rejection, Denial怎么办？
+### - 回答：<br/>
+回答来源：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
 
-***Responding to a Rejection:***<br/>
-1. Must refile ENTIRE application with cover letter of rejection notice on top<br/>
-2. Resubmit payment (original check would have been sent back to you so you won’t have to pay twice)<br/>
-3. You will be unable to refile an application if your grace period has expired already<br/>
-4. Request another I-20 for OPT from ISSS<br/>
-5. Your 12 months of OPT will most likely be reduced because of this delay<br/>
+***注意：在回应REF, Rejection, Denial之前，始终先向您的学校DSO求教！！！ *** <br/>
+***回应 RFE：*** <br/>
+1.严格按照RFE的指示进行操作（例如，它将明确告诉您您需要重做或提交的内容，不要提交过多的文档！）<br/>
+2.确保在提交新文件的顶部还包括RFE的整个求职信。<br/>
+3.直接提交到RFE上的地址<br/>
+4.与拒绝和拒绝一样，您的OPT申请也会因此而延迟，您的OPT授权总期限可能会缩短<br/>
+***注意：<br/>请在RFE上指示的时间范围内进行响应，大约需要30到90天。<br/>
+尽快做出响应，避免进一步延迟您的可选应用程序***
 
-***Responding to a Denial:****<br/>
-1. Once again, you must refile the entire application AND pay another fee of $410.00 so long as your grace period has
-not expired.<br/>
-2. Request another I-20 for OPT from ISSS<br/>
-3. As with a rejection, your 12 months of OPT will most likely be reduced because of the delay<br/>
+***回应 Rejection:***<br/>
+1.必须重新提交整个申请，并在顶部附上拒绝通知信<br/>
+2.重新提交付款（原来的支票会被退还给您，因此您不必再次付款）<br/>
+3.如果您的宽限期已经过期，您将无法重新提交申请<br/>
+4.向ISSS请求另一台I-20进行OPT <br/>
+5.由于这种延迟，您的OPT 12个月很可能会减少<br/>
+
+***回应 Denial:***<br/>
+1.同样，您必须重新提交整个申请并支付410.00美元的另一笔费用，只要您的宽限期为
+未过期。<br/>
+2.向ISSS请求另一台I-20进行OPT <br/>
+3.与拒绝一样，您的12个月的OPT很可能会因为延迟而减少<br/>
 
 
 
@@ -103,6 +107,7 @@ not expired.<br/>
 ### - 律师回答：
 经常有人问我们这个问题，这是一个普遍关注的问题。我们从未见过USCIS会因为有人提起诉讼或与诉讼有关联而采取对诉讼人的不利行动。通常情况下，他们会优先处理诉讼人的申请，以减轻诉讼费用，从而解决集体诉讼案件。尽管我们不能保证永远不会有任何不良影响，但是我们过去从未见过这种情况。我认为，如果没有其他原因，诉讼人在移民局的文档不会被留下污点。
 
+<br/>
 免责声明：本网站包含的资料并不是官方指南，只是目前同学们自己收集到的信息汇总，仅供参考。
 
 
