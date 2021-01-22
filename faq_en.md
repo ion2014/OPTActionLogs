@@ -68,4 +68,9 @@ not expired.<br/>
 
 
 ## 10. Will it affect my future visa if I participate in the class action?
-### - Answer from lawyer: We get this question all of the time, it is a common concern.  We have never seen USCIS take adverse action because somebody filed suit, or was associated with a lawsuit  More often, as Caroline explained on the call, they will pull your application to give you the relief sought in order to defeat the class action. While we can’t promise that there will never be any adverse action, we can tell you that we have never seen this in the past.  I don’t think it is likely if for no other reason (and there are other reasons), USCIS has no central repository of information to put a “black mark” on your file.
+### - Answer from lawyer: <br/>
+We get this question all of the time, it is a common concern.  We have never seen USCIS take adverse action because somebody filed suit, or was associated with a lawsuit  More often, as Caroline explained on the call, they will pull your application to give you the relief sought in order to defeat the class action. While we can’t promise that there will never be any adverse action, we can tell you that we have never seen this in the past.  I don’t think it is likely if for no other reason (and there are other reasons), USCIS has no central repository of information to put a “black mark” on your file.
+
+
+
+Disclaimer: The information contained in this website is not an official guide, but a summary of the information collected by the students themselves for reference.
