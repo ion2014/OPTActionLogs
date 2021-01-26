@@ -4,14 +4,58 @@
 # Frequently Asked Questions
 
 ## 1. What can I do next if I delivered my application XXX weeks ago, but still haven't got a receipt?
-### - Answer: Check if the check/money order has been cashed.  
+### - Answer:
+Check whether the delivery is normal and confirm that the materials have been delivered.
+Check if the check/money order has been cashed.:
+
+1. If it is a cashier check, you can call the bank or go to the bank with the cashier check number.<br/>
+2. If it is a Money order from USPS or MoneyGram, you can find it on their website. <br/>
+
+Ask Emma to check the receipt number by asking Emma to transfer to the manual service. After entering the chat room, the representative lived.<br/>
 
 ## 2. Where can I look up the most recent updates on OPT application processing?
+### - Answer:
+OPT Timeline： https://opttimeline.com/<br/>
+OPT Receipt Monitor： https://www.optreceiptmonitor.com/<br/>
 
 ## 3. How many cases are approved today?
+### - Answer:
+OPT Timeline： https://opttimeline.com/<br/>
+OPT Receipt Monitor： https://www.optreceiptmonitor.com/<br/>
+
+## 4. What if my Check/MoneyOrder is over 90 days?
+### - Answer:
+At present, most of the banks we have consulted have responded: Don’t worry, as long as the money in the account is not withdrawn and the replacement of MoneyOrder is not applied, USCIS can cash within one year.<br/>
+But we suggest that you still check with your bank to make sure you are foolproof.<br/>
+
+## 5. How to talk to a real person through EMMA / USCIS contact number?
+### - Answer:
+EMMA: request infopass
+Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center (say lockbox Emma would ask for your email instead) -> It's been more than 30 days -> yes it was delivered
 
 
-## 8.什么是REF，Rejection,和Denial?
+## 6. I have already sent an OPT application to AZ/TX, can I send another copy to Chicago lockbox?
+### - Answer:
+We understand that the replies from the DSO of the schools do not recommend this. If there is no problem with the materials, it is not recommended to send a second copy! The possible risks are:<br/>
+
+1. If you get both receipts and finally withdraw one of them, there is a risk that both copies will be withdrawn (specific example: http://forum.desiopt.com/showthread.php/6245-Duplicate-OPT-Stem- application).<br/>
+2. If you get both receipts and enter the system for processing, if one of them is denied during the grace period or the stem 180 days extension, the SEVIS system is directly terminated, and the other one may not be approved. (If I want to re-send the I-20, it will be sent 1 to 2 days before the expiration date. I see that many people’s receipt time will have an error of 1 to 2 days before and after, so I am worried that the second copy will violate I-20 60 days. The rule is denied to cause the second situation to occur).<br/>
+3. If two receipts are obtained and both enter the system for processing, some school’s DSO says "Submitting two applications is against immigration regulations. If two applications are in the system, it could result in an automatic rejection/denial for both".<br/>
+
+**No matter what the situation, don't re-file your opt without authorization. In any situation, contact the school's DSO directly, they will help you contact uscis!**
+
+
+## 7. I have already sent an OPT application to AZ/TX, can I send another copy to Chicago lockbox?
+### - Answer:
+**First of all, don't re-file opt without authorization, first contact the school's DSO directly and ask them if it is feasible!**<br/>
+Combining the above three possible risks, we believe that if you meet the following conditions, sending the second copy **may be relatively less risky**:<br/>
+
+1. First of all, if your i-20 is not more than 30/60 days, the risk of reopening the i-20 without receiving the rejection is very high, because the first application will not be rej (if you have no use Wrong form or let him be rej by canceling check etc.), but it will be denied after entering the system. If your second copy entered the system at that time, it is likely that your first copy will be during the second process. If it is denied, the sevis record will have a risk of being terminated directly.<br/>
+2. The first one can be guaranteed to be rejected by the lockbox, so that there is only one application in the final system (because the check amount is incorrect, or the old I-765 form is used. Friends who use personal check can find a way to block the transaction of the first application , But canceling the check is also risky. If you use cashier check or money order, please think twice, these two payments should not be canceled, and there is a high probability that two applications will enter the system in the end).<br/>
+3. Both applications must be foolproof. If you are not sure whether the second one will be sent within 60 days, there is a risk that the second one will be denied. As above, the SEVIS system is directly terminated, and the other one may not be possible. Get approval.<br/>
+
+
+## 8. What are REF，Rejection, and Denial?
 ### - Answer：<br/>
 Source：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
 ***REF(Requests for Evidence)***<br/>
@@ -76,4 +120,4 @@ We get this question all of the time, it is a common concern.  We have never see
 
 
 
-Disclaimer: The information contained in this website is not an official guide, but a summary of the information collected by the students themselves for reference.
+**Disclaimer: The information contained in this website is not an official guide, but a summary of the information collected by the students themselves for reference.**
