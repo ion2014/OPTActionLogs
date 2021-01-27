@@ -5,3 +5,4 @@
 
 [FAQ](https://ion2014.github.io/OPTActionLogs/faq_ch)\
 [行动日志](https://ion2014.github.io/OPTActionLogs/action_logs_ch)
+[申请自查列表](https://ion2014.github.io/OPTActionLogs/self_check_ch)
