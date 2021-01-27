@@ -1,4 +1,7 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
+[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[English](https://ion2014.github.io/OPTActionLogs/self_check_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/self_check_ch)
+
+
 ## Self Checklist(updated Jan/19/2021)
 
 ### Basic information
@@ -10,7 +13,7 @@ Name/Passport Number/Contact info/SSN\
 ### Did you choose the correct category?
 
 Initial OPT: (c)(3)(b) \
-STEM OPT Extension: (c)(3)(c) \
+STEM OPT Extension: (c)(3)(c)<br/>
 
 ### Correct payment infomation?
 Amount: $410\
