@@ -1,4 +1,5 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
+[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[English](https://ion2014.github.io/OPTActionLogs/action_logs_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/action_logs_ch)
 # 行动日志
 自从12月中到现在, 我们已经尝试过的手段有（倒序）:
 
