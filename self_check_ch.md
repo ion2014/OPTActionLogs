@@ -1,4 +1,7 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)
+[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[English](https://ion2014.github.io/OPTActionLogs/self_check_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/self_check_ch)
+
+
 ## 申请自查列表(updated Jan/19/2021)
 
 ### 基本信息是否正确?
