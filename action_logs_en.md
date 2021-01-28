@@ -1,5 +1,5 @@
 [首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
-[English](https://ion2014.github.io/OPTActionLogs/action_logs_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/action_logs_ch)
+[English](https://ion2014.github.io/OPTActionLogs/action_logs_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/action_logs_en)
 # Action Log
 Since mid-December until now, the action we have taken are (in reverse order):
 
@@ -18,13 +18,14 @@ Update (January 20): The video has been played more than 20,000 times
 ### Send open letter
 [To Ernest Destefano](https://docs.google.com/document/d/1Ne8f4cJslbjKfv4NyXZKAmdAYpqTli3pBBgu1YCDhwg/edit#heading=h.yksvnxay7qwv)\
 [To all university Presidents](https://docs.google.com/document/d/1kX8FtelQxjcIMOrl8xgZjYS_XZEjALOWaVALCMk15h4/edit)|[Reply](https://docs.google.com/document/d/1TPKc01OHo1-ixPsen0AfFJl4yqliMYQmZqKSz4-1Ee0/edit)<br/>
-
+[To new DHS secretary](https://docs.google.com/document/d/1n8DVWuXHFtghbbToc7TJaBNvgzWkTjyqL9EOr_5HBe8/edit)
 
 ### Tweet using [#f1optlockboxdelay](https://twitter.com/search?q=%23f1optlockboxdelay&src=typeahead_click) on Twitter
 Update (January 20): \
 Created OPT Delay [Official Account](https://twitter.com/SaveDelayedOPT), please follow, like and forward to get the latest ammunition and progress! \
 Update (January 19): \
 Antique has the first organized trending action| [plan](https://docs.google.com/document/d/1493kNOLOz4VI8JK5of2khEDHVYUqQKVK20OH48RTtf0/edit?usp=sharing)
+Second twitter action| [plan](https://docs.google.com/document/d/1493kNOLOz4VI8JK5of2khEDHVYUqQKVK20OH48RTtf0/edit)
 
 ### Initiate [Petition](https://www.change.org/p/uscis-please-process-opt-applications-at-uscis-dallas-lockbox) through the website
 Update: 2500 people have signed the petition

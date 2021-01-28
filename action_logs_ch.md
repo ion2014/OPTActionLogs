@@ -25,6 +25,8 @@ update(Jan.20):\
 创建了OPT Delay[官方账号](https://twitter.com/SaveDelayedOPT), 请关注点赞转发获得最新的弹药和进展！\
 update(Jan.19): \
 举行了第一次有组织的trending行动|[计划书](https://docs.google.com/document/d/1493kNOLOz4VI8JK5of2khEDHVYUqQKVK20OH48RTtf0/edit?usp=sharing)
+update(Jan.26): \
+第二次推特行动|[计划书](https://docs.google.com/document/d/1493kNOLOz4VI8JK5of2khEDHVYUqQKVK20OH48RTtf0/edit)
 
 ### 通过网站发起[请愿](https://www.change.org/p/uscis-please-process-opt-applications-at-uscis-dallas-lockbox)
 update: 已经有2500人sign了petition
