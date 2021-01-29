@@ -25,6 +25,7 @@ OPT Receipt Monitor： https://www.optreceiptmonitor.com/<br/>
 
 ## 5. 如何通过EMMA / USCIS contact Number 转人工?
 ### - 回答：
+EMMA: Technical issue -> technical problem<br/>
 EMMA: request infopass<br/>
 Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center(说lockbox会让你发邮件) -> It's been more than 30 days -> yes it was delivered<br/>
 
