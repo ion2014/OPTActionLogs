@@ -30,9 +30,9 @@ But we suggest that you still check with your bank to make sure you are foolproo
 
 ## 5. How to talk to a real person through EMMA / USCIS contact number?
 ### - Answer:
-EMMA: Technical issue -> technical problem
-EMMA: request infopass
-Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center (say lockbox Emma would ask for your email instead) -> It's been more than 30 days -> yes it was delivered
+EMMA: Technical issue -> technical problem <br/>
+EMMA: request infopass <br/>
+Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center (say lockbox Emma would ask for your email instead) -> It's been more than 30 days -> yes it was delivered <br/>
 
 
 ## 6. If I have passed the Grace Period and are still waiting for OPT approval, can I still stay in the United States legally?？
