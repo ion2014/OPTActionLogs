@@ -30,11 +30,21 @@ But we suggest that you still check with your bank to make sure you are foolproo
 
 ## 5. How to talk to a real person through EMMA / USCIS contact number?
 ### - Answer:
+EMMA: Technical issue -> technical problem
 EMMA: request infopass
 Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center (say lockbox Emma would ask for your email instead) -> It's been more than 30 days -> yes it was delivered
 
 
-## 6. I have already sent an OPT application to AZ/TX, can I send another copy to Chicago lockbox?
+## 6. If I have passed the Grace Period and are still waiting for OPT approval, can I still stay in the United States legally?？
+### - Answer：
+Yes, as long as you send out OPT before the Grace period, you can stay in the United States legally while your OPT is pending with USCIS (including the case of no receipt).
+
+## 7. While waiting for OPT application is pending at USCIS (before receiving the EAD card), can I leave the US and go to other countries? And just let my friend mail the EAD card to me after it was delivered, so that I will enter the United States with the EAD card?
+### - Answer：
+No, don't do that. The advice of all lawyers and school dso is to never do this.
+
+
+## 8. I have already sent an OPT application to AZ/TX, can I send another copy to Chicago lockbox?
 ### - Answer:
 We understand that the replies from the DSO of the schools do not recommend this. If there is no problem with the materials, it is not recommended to send a second copy! The possible risks are:<br/>
 
@@ -45,7 +55,7 @@ We understand that the replies from the DSO of the schools do not recommend this
 **No matter what the situation, don't re-file your opt without authorization. In any situation, contact the school's DSO directly, they will help you contact uscis!**
 
 
-## 7. I have already sent an OPT application to AZ/TX, can I send another copy to Chicago lockbox?
+## 9. I have already sent an OPT application to AZ/TX, can I send another copy to Chicago lockbox?
 ### - Answer:
 **First of all, don't re-file opt without authorization, first contact the school's DSO directly and ask them if it is feasible!**<br/>
 Combining the above three possible risks, we believe that if you meet the following conditions, sending the second copy **may be relatively less risky**:<br/>
@@ -55,7 +65,7 @@ Combining the above three possible risks, we believe that if you meet the follow
 3. Both applications must be foolproof. If you are not sure whether the second one will be sent within 60 days, there is a risk that the second one will be denied. As above, the SEVIS system is directly terminated, and the other one may not be possible. Get approval.<br/>
 
 
-## 8. What are REF，Rejection, and Denial?
+## 10. What are REF，Rejection, and Denial?
 ### - Answer：<br/>
 Source：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
 ***REF(Requests for Evidence)***<br/>
@@ -87,7 +97,7 @@ A denial occurs when your OPT application packet is sent to a Service Center for
 ***Note: USCIS will process your payment for a denial***<br/>
 
 
-## 9. What if my OPT application got REF，Rejection,Denial？
+## 11. What if my OPT application got REF，Rejection,Denial？
 ### - Answer：<br/>
 Source：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
 ***Note: ALWAYS TALK TO YOUR SCHOOL DSO BEFORE RESPONDING TO AN RFE, REJECTION, OR DENIAL!!!***<br/>
@@ -114,7 +124,7 @@ not expired.<br/>
 
 
 
-## 10. Will it affect my future visa if I participate in the class action?
+## 12. Will it affect my future visa if I participate in the class action?
 ### - Answer from lawyer: <br/>
 We get this question all of the time, it is a common concern.  We have never seen USCIS take adverse action because somebody filed suit, or was associated with a lawsuit  More often, as Caroline explained on the call, they will pull your application to give you the relief sought in order to defeat the class action. While we can’t promise that there will never be any adverse action, we can tell you that we have never seen this in the past.  I don’t think it is likely if for no other reason (and there are other reasons), USCIS has no central repository of information to put a “black mark” on your file.
 
