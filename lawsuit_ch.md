@@ -4,6 +4,7 @@
 # 诉讼进程
 - 目前我们联系了共9位律师，每位律师的资料总结及联系方式汇总如下。<br/>
 - 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias，所以对于这两位律师，我们将统一组织，你可以选择参与任何一位的或者两者都参加，也可以都不参加选择其他律师。<br/>
+
 ***Disclaimer：加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。***<br/>
 
 ## [Robert Cohen](https://www.porterwright.com/robert-h-cohen/)
