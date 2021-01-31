@@ -1,6 +1,8 @@
 [首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
 [English](https://ion2014.github.io/OPTActionLogs/lawsuit_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/lawsuit_ch)
 
+关于Lawsuit的任何问题请先查看[Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)
+
 # 诉讼进程
 - 目前我们联系了共9位律师，每位律师的资料总结及联系方式汇总如下。<br/>
 - 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias，所以对于这两位律师，我们将统一组织，**关于是否能同时参加两个律师，我们还在跟律师clarify，希望大家先hold到周一再做决定/交钱。** ~~你可以选择参与任何一位的或者两者都参加，也可以都不参加选择其他律师~~ <br/>
