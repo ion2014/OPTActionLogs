@@ -45,7 +45,7 @@
 - Best outcome: Compel USCIS to make final decisions on OPT EADs for both initial OPT applicants and STEM OPT Extension applicants. Pursue an order to compel USCIS to issue receipts for all OPT applications.
 
 ### lawsuit进程
-1/28 sent us [draft contract](https://github.com/ion2014/OPTActionLogs/blob/gh-pages/Brad%20Banias_Draft%20Contract.pdf)<br/>
+1/28 sent us [draft contract](https://github.com/ion2014/OPTActionLogs/blob/gh-pages/Brad%20Banias_Draft%20Contract.pdf) (注：不用签，就是给大家看一下基本情况)<br/>
 想要参与lawsuit的同学直接在他的网页上填写资料，签署合同，网址及密码如下：<br/>
 www.wasdenbanias.com/optdelaysuitonboarding <br/>
 The password: 2021opt<br/>
