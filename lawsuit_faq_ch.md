@@ -10,8 +10,8 @@
 
 ## 2. Named plaintiffs和Reserved plaintiffs有什么区别？<br/>
 关于class action里面的named plaintiffs和reserved plaintiffs，named plaintiff和reserved plaintiff在rights上没有任何区别，只是最后决定要不要接受settlement是named plaintiff去接受，以及如果最后要上庭的话named plaintiffs需要上庭。有些case，如果最后settlement是金钱，比如医疗损失什么的，named plaintiff可能会多给一些钱，但我们的案子跟金钱没有任何关系，所以对于我们来说，named plaintiffs和reserved plaintiffs没有任何区别。<br/>
-大家也可自行查看这个解释named/reserved的网站：<br/>
-https://www.classaction.org/blog/what-does-it-mean-to-be-the-lead-plaintiff-in-a-class-action-lawsuit#:~:text=The%20lead%20plaintiff%E2%80%94or%2C%20less,person%20who%20files%20the%20lawsuit  另外，Brad从来没有说过交钱就能当named plaintiffs，一个class action的named plaintiffs一般只有10-30人，Brad可能也要在报名人里面挑选named plaintiffs，但是again，named plaintiff和reserved plaintiff在rights上没有任何区别。
+大家也可自行查看[网站](https://www.classaction.org/blog/what-does-it-mean-to-be-the-lead-plaintiff-in-a-class-action-lawsuit#:~:text=The%20lead%20plaintiff%E2%80%94or%2C%20less,person%20who%20files%20the%20lawsuit)上的解释<br/>
+另外，Brad从来没有说过交钱就能当named plaintiffs，一个class action的named plaintiffs一般只有10-30人，Brad可能也要在报名人里面挑选named plaintiffs，但是again，named plaintiff和reserved plaintiff在rights上没有任何区别。
 
 
 
