@@ -4,6 +4,7 @@
 自从12月中到现在, 我们已经尝试过的手段有（倒序）:
 
 ### 寻求律师援助
+详情见[lawsuit进程](https://ion2014.github.io/OPTActionLogs/lawsuit_ch)
 
 ### 寻求媒体报导
 update(Jan.20):\
