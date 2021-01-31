@@ -40,7 +40,7 @@
 - Legal fee: One-time Fee of $927/person
 - Minimal number of plaintiffs: 150
 - Sue in 2 groups (Initial OPT and STEM OPT)
-- Timeline: Feb 1, 2021 file lawsuit, if all materials are ready
+- Timeline: Feb 8, 2021 file lawsuit, if all materials are ready
 - Best outcome: Compel USCIS to make final decisions on OPT EADs for both initial OPT applicants and STEM OPT Extension applicants. Pursue an order to compel USCIS to issue receipts for all OPT applications.
 
 ### lawsuit进程
