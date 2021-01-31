@@ -15,7 +15,7 @@
 ### lawsuit计划
 - class action lawsuit on behalf of students who have filed applications for Optional Practical Training and STEM extensions of OPT with USCIS, and have not received receipts or the
  benefits of a timely processed application.
-- File location: AZ
+- File location: OH
 - $50/person (material collection/filing fee, not legal fee)
 - Plans: File the case immediately once we have enougth named plaintiffs, keep adding everyone as reserved plaintiffs until USCIS resolves the whole class's problem/request.
 - If USCIS lost/settle, lawyer recieve compensation for the legal services from USCIS. In other words, its USCIS to pay the lawyer, not us.
