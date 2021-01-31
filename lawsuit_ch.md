@@ -3,7 +3,7 @@
 
 # 诉讼进程
 - 目前我们联系了共9位律师，每位律师的资料总结及联系方式汇总如下。<br/>
-- 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias，所以对于这两位律师，我们将统一组织，你可以选择参与任何一位的或者两者都参加，也可以都不参加选择其他律师。<br/>
+- 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias，所以对于这两位律师，我们将统一组织，**关于是否能同时参加两个律师，我们还在跟律师clarify，希望大家先hold到周一再做决定/交钱。** ~~你可以选择参与任何一位的或者两者都参加，也可以都不参加选择其他律师~~ <br/>
 - 关于很多同学担心的过了Grace period如果被rej/deny怎么办，这个问题是我们lawsuit的核心诉求之一，我们跟每一位律师都强调了，他们也表示argue point会考虑到这个方面，所以大家不用担心。
 
 ***Disclaimer：加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。***<br/>
