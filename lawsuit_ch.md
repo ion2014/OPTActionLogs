@@ -9,12 +9,13 @@
 ## [Robert Cohen](https://www.porterwright.com/robert-h-cohen/)
 - Team of Robert Cohen and Caroline Gentry (Yale Law ’95)
 - Recommended by Ying Cao and Qian Mo
-- Won H4 case in Ohio court
+- History: Won H4 case in Ohio court
 - Been in practice (immigration) for 44 years, has served as chapter chair and is a past chair of the USCIS Benefits Committee, the Nebraska Service Center Liaison Committee and the Board of Trustees of the American Immigration Council.
 
 ### lawsuit计划
 - class action lawsuit on behalf of students who have filed applications for Optional Practical Training and STEM extensions of OPT with USCIS, and have not received receipts or the
  benefits of a timely processed application.
+- File location: AZ
 - $50/person (material collection/filing fee, not legal fee)
 - Plans: File the case immediately once we have enougth named plaintiffs, keep adding everyone as reserved plaintiffs until USCIS resolves the whole class's problem/request.
 - If USCIS lost/settle, lawyer recieve compensation for the legal services from USCIS. In other words, its USCIS to pay the lawyer, not us.
@@ -30,13 +31,12 @@
 
 
 ## [Brad Banias](https://www.wasdenbanias.com/about1)
-• Winning history: did NOT get the TRO for a recent H4 case in Texas
-• Where to file case: likely to be Seattle or Texas, depends on plaintiffs locations
-• Location: South Carolina
+- History: did NOT get the TRO for a recent H4 case in Texas
 
 ### lawsuit计划
 详情见[draft contract](https://github.com/ion2014/OPTActionLogs/blob/gh-pages/Brad%20Banias_Draft%20Contract.pdf)
 - Lawsuit type: Class Action
+- File location: AZ
 - Legal fee: One-time Fee of $927/person
 - Minimal number of plaintiffs: 150
 - Sue in 2 groups (Initial OPT and STEM OPT)
