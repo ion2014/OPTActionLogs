@@ -21,7 +21,7 @@
 ### Lawsuit进程（倒叙）
 ***1/29/2021 跟Robert爷爷电话，汇总如下：***<br/>
 1. ***this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through***<br/>
-2. ***目前Rob爷爷的团队正在work on the complaints, which will be ready within the next day or 2.**<br/>
+2. ***目前Rob爷爷的团队正在work on the complaints, which will be ready within the next day or 2.***<br/>
 3. ***Case will be filed in Ohio***<br/>
 4. ***The case will be filed within the next couple of days (hoping would be this Thursday).***<br/>
 - **目前还没有收到付款的reference number和link，Rob爷爷说might be ready by tonight or tomorrow (目前不确定是分批付款还是整体付款，等Rob爷爷明天回复再向大家汇报）**<br/>
