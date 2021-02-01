@@ -1,7 +1,8 @@
 [首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
 [English](https://ion2014.github.io/OPTActionLogs/lawsuit_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/lawsuit_ch)
 
-关于Lawsuit的任何问题请先查看[Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)
+关于Lawsuit的任何问题请先查看[Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
+***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
 # 诉讼进程
 - 目前我们联系了共9位律师，每位律师的资料总结及联系方式汇总如下。<br/>
@@ -19,6 +20,9 @@
 
 
 ### Lawsuit进程（倒叙）
+
+***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
+
 ***1/29/2021 跟Robert爷爷电话，汇总如下：***<br/>
 1. ***this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through***<br/>
 2. ***目前Rob爷爷的团队正在work on the complaints, which will be ready within the next day or 2.***<br/>
