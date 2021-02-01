@@ -13,6 +13,10 @@
 大家也可自行查看[网站](https://www.classaction.org/blog/what-does-it-mean-to-be-the-lead-plaintiff-in-a-class-action-lawsuit#:~:text=The%20lead%20plaintiff%E2%80%94or%2C%20less,person%20who%20files%20the%20lawsuit)上的解释<br/>
 另外，Brad从来没有说过交钱就能当named plaintiffs，一个class action的named plaintiffs一般只有10-30人，Brad可能也要在报名人里面挑选named plaintiffs，但是again，named plaintiff和reserved plaintiff在rights上没有任何区别。
 
+## 3. 参与Robert lawsuit的条件是哪些, 我现在需要缴费吗?
+Robert file的class群体是: "those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD". 即不论你是AZ, TX, 有无receipt, 只要因为delay造成了实际的损失(例如start date推迟|offer loss等), 就可以参与诉讼. 关于缴费的部分, reserved plaintff暂时不需要缴费. 只有在律师觉得named plaintiff人数不足时, 会综合大家的受损情况从reserved plaintiff中进行补充, 同时也会通过slack/wechat/email通知, 在这时候才需要进行缴费.
 
+## 4. 如何确定自己是否被包括在Reserved plaintiff中呢?
+首先填写[gform](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform), 稍后会有google sheet统计发布.
 
 ***免责声明：本网站包含的资料并不是官方指南，只是目前同学们自己收集到的信息汇总，仅供参考。***
