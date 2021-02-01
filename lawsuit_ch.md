@@ -21,14 +21,14 @@
 ### Lawsuit进程（倒叙）
 ***1/29/2021 跟Robert爷爷电话，汇总如下：***<br/>
 1. ***this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through***<br/>
-2. ***目前Rob爷爷的团队正在work on the complaints, which will be ready within the next day or 2.***<br/>
-3. ***Case will be filed in Ohio<br/>
-4. ***The case will be filed within the next couple of days (hoping would be this Thursday). ***<br/>
-- ***目前还没有收到付款的reference number和link，Rob爷爷说might be ready by tonight or tomorrow (目前不确定是分批付款还是整体付款，等Rob爷爷明天回复再向大家汇报）***<br/>
-- ***因为是class action，reserved plaintiff 会很快/随时变成named plaintiff，这是Rob爷爷的strategy，所以也请大家准备好材料，比如tracking number，证明delivery***<br/>
+2. ***目前Rob爷爷的团队正在work on the complaints, which will be ready within the next day or 2.**<br/>
+3. ***Case will be filed in Ohio***<br/>
+4. ***The case will be filed within the next couple of days (hoping would be this Thursday).***<br/>
+- **目前还没有收到付款的reference number和link，Rob爷爷说might be ready by tonight or tomorrow (目前不确定是分批付款还是整体付款，等Rob爷爷明天回复再向大家汇报）**<br/>
+- **因为是class action，reserved plaintiff 会很快/随时变成named plaintiff，这是Rob爷爷的strategy，所以也请大家准备好材料，比如tracking number，证明delivery**<br/>
 
-***The fees collection process has not started yet, and please wait for further notice. ***<br/>
-Definition for our class: those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD***<br/>
+***The fees collection process has not started yet, and please wait for further notice.***<br/>
+***Definition for our class: those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD***<br/>
 
 
 1/28/2021 Robert答应接下我们的case<br/>
@@ -38,10 +38,10 @@ Definition for our class: those who have no receipt and those who have not enjoy
 
 
 ### Lawsuit计划
-- class action lawsuit on behalf of students who have filed applications for Optional Practical Training and STEM extensions of OPT with USCIS, and have not received receipts or the benefits of a timely processed application. 
-- ***Definition for our class：those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD. 所以，无论TX还是AZ，只要是经历了10月底之后delay的，都可以算进来. 现在是整体delay，本来应该三个月就approve的，现在无论是AZ还是TX都无法三个月approve，所以我们这一大波都算。（因为我们最早寄OPT是毕业前90天，所以理论上USCIS要在我们寄到90天内给我们发卡）之前也明确问过Rob爷爷关于AZ的，Rob爷爷说AZ的肯定算在其中，而且Rob爷爷说TX和AZ在EAD事情上是分不开的，因为是同一个部门处理approval。
-- ***Rob爷爷给我们的case的诉求不是receipt，跟receipt毫无关系，而是EAD， 就是要拿到EAD卡。
-- 去年rob 爷爷h4的case，plaintiff 大概300多人，但是就算不是plaintiff，也享受了最终lawsuit成果，就是拿到approval receipt就能去上班，不用拿到ead卡。
+- class action lawsuit on behalf of students who have filed applications for Optional Practical Training and STEM extensions of OPT with USCIS, and have not received receipts or the benefits of a timely processed application. <br/>
+- ***Definition for our class：those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD. 所以，无论TX还是AZ，只要是经历了10月底之后delay的，都可以算进来. 现在是整体delay，本来应该三个月就approve的，现在无论是AZ还是TX都无法三个月approve，所以我们这一大波都算。（因为我们最早寄OPT是毕业前90天，所以理论上USCIS要在我们寄到90天内给我们发卡）之前也明确问过Rob爷爷关于AZ的，Rob爷爷说AZ的肯定算在其中，而且Rob爷爷说TX和AZ在EAD事情上是分不开的，因为是同一个部门处理approval。***<br/>
+- ***Rob爷爷给我们的case的诉求不是receipt，跟receipt毫无关系，而是EAD， 就是要拿到EAD卡。***<br/>
+- 去年rob 爷爷h4的case，plaintiff 大概300多人，但是就算不是plaintiff，也享受了最终lawsuit成果，就是拿到approval receipt就能去上班，不用拿到ead卡。<br/>
 - File location: OH
 - $50/person (material collection/filing fee, not legal fee)
 - Plans: The case will be filed within the next couple of days (hoping would be this Thursday)
