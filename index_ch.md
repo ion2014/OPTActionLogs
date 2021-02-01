@@ -7,4 +7,5 @@
 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)\
 [OPT FAQ](https://ion2014.github.io/OPTActionLogs/opt_faq_ch)\
 [申请自查列表](https://ion2014.github.io/OPTActionLogs/self_check_ch)\
-[行动日志](https://ion2014.github.io/OPTActionLogs/action_logs_ch)
+[行动日志](https://ion2014.github.io/OPTActionLogs/action_logs_ch)\
+[Sign-up gform for Robert Cohen](https://forms.gle/4mSvmdacZNomUQUV7)
