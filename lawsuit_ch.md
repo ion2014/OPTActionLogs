@@ -14,6 +14,7 @@
 
 ***Disclaimer：加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。***<br/>
 
+--------------------
 ## [Robert Cohen](https://www.porterwright.com/robert-h-cohen/)
 - Team of Robert Cohen and Caroline Gentry (Yale Law ’95)
 - Recommended by Ying Cao and Qian Mo
@@ -56,7 +57,7 @@
 - If USCIS lost/settle, lawyer recieve compensation for the legal services from USCIS. In other words, its USCIS to pay the lawyer, not us.
 - Best outcome: EAD card
 
-
+--------------------
 ## [Brad Banias](https://www.wasdenbanias.com/about1)
 - History: did NOT get the TRO for a recent H4 case in Texas
 
