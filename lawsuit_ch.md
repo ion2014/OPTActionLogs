@@ -6,7 +6,9 @@
 
 # 诉讼进程
 - 目前我们联系了共9位律师，每位律师的资料总结及联系方式汇总如下。<br/>
-- 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias，对于Robert律师我们将统一组织，对于Brad律师我们也把他的所有进度以及如何报名更新在下面，想参加的同学可以直接报名。<br/>
+- 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias.
+  - 对于Robert律师我们将统一组织.
+  - 对于Brad律师我们也把他的所有进度以及如何报名更新在下面，想参加的同学可以直接报名。<br/>
 - **根据Brad Banias的说法，class action只能参加一个，所以大家如果选了Robert的同学，就不要参加Brad的了，反之亦然** <br/>
 - 关于很多同学担心的过了Grace period如果被rej/deny怎么办，这个问题是我们lawsuit的核心诉求之一，我们跟每一位律师都强调了，他们也表示argue point会考虑到这个方面，所以大家不用担心。<br/>
 
@@ -23,22 +25,24 @@
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
+***The fees collection process has not started yet, and please wait for further notice.***<br/>
+
+***1/30/2021*** Phone calls with Robert. The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.
+
 ***1/29/2021 跟Robert爷爷电话，汇总如下：***<br/>
-1. ***this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through***<br/>
-2. ***目前Rob爷爷的团队正在work on the complaints, which will be ready within the next day or 2.***<br/>
-3. ***Case will be filed in Ohio***<br/>
-4. ***The case will be filed within the next couple of days (hoping would be this Thursday).***<br/>
+  1. this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through<br/>
+  2. Currently Robert's team is working on the complaints, which will be ready within the next day or 2.<br/>
+  3. Case will be filed in Ohio<br/>
+  4. The case will be filed within the next couple of days (hoping would be this Thursday). <br/>
+  
 - **目前还没有收到付款的reference number和link，Rob爷爷说might be ready by tonight or tomorrow (目前不确定是分批付款还是整体付款，等Rob爷爷明天回复再向大家汇报）**<br/>
 - **因为是class action，reserved plaintiff 会很快/随时变成named plaintiff，这是Rob爷爷的strategy，所以也请大家准备好材料，比如tracking number，证明delivery**<br/>
 
-***The fees collection process has not started yet, and please wait for further notice.***<br/>
-***Definition for our class: those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD***<br/>
 
-
-1/28/2021 Robert答应接下我们的case<br/>
-1/28/2021 第一诉讼人（第一个联系Robert的同学）签署fee agreement<br/>
-1/28/2021 找到一名愿意作为representative的Ohio的同学（因为case要file到Ohio的联邦法院），同时我们得知需要15个named plaintiffs，其余同学将作为reserved plaintiffs进行诉讼(关于named plaintiff和reserved plaintiffs的见[lawsuit FAQ])<br/>
-1/19/2021 第一次zoom meeting<br/>
+***1/28/2021*** Robert答应接下我们的case<br/>
+***1/28/2021*** 第一诉讼人（第一个联系Robert的同学）签署fee agreement<br/>
+***1/28/2021*** 找到一名愿意作为representative的Ohio的同学（因为case要file到Ohio的联邦法院），同时我们得知需要15个named plaintiffs，其余同学将作为reserved plaintiffs进行诉讼(关于named plaintiff和reserved plaintiffs的见[lawsuit FAQ])<br/>
+***1/19/2021*** 第一次zoom meeting<br/>
 
 
 ### Lawsuit计划
