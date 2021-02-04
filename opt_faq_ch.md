@@ -3,7 +3,6 @@
 # 常见问题
 
 ## 1. 我是xx月xx号寄到的, 现在没有收到receipt number, 怎么办?
-### - 回答：
 查看Deliver是否正常，确认材料已经Delivered.<br/>
 查看Check/money order是否有被cash: <br/>
 1. 如果是cashier check， 可以给银行打电话或者去银行问 提供cashier check 的number就可以查到<br/>
@@ -11,34 +10,29 @@
 问Emma，通过ask Emma转人工服务查询receipt number，在对话框打入Chat to live representatives。<br/>
 
 ## 2. 去哪里查看最新的OPT消息？
-### - 回答：
+OPT Timeline： https://opttimeline.com/<br/>
+OPT Receipt Monitor： https://www.optreceiptmonitor.com/<br/>
 
 ## 3. 今天的case approve情况？
-### - 回答：
 OPT Timeline： https://opttimeline.com/<br/>
 OPT Receipt Monitor： https://www.optreceiptmonitor.com/<br/>
 
 ## 4. 我的Check/MoneyOrder超过90天了怎么办
-### - 回答：
 目前我们咨询到的大部分银行的回复是：不用担心, 只要账户中的钱没有被取出/没有申请MoneyOrder的replacement, 一年内USCIS都可以cash<br/>
 但是我们建议你还是跟自己的银行确认一下，确保万无一失。<br/>
 
 ## 5. 如何通过EMMA / USCIS contact Number 转人工?
-### - 回答：
 EMMA: Technical issue -> technical problem<br/>
 EMMA: request infopass<br/>
 Phone: I want to check my case status -> I have not received my receipt -> I've sent it to service center(说lockbox会让你发邮件) -> It's been more than 30 days -> yes it was delivered<br/>
 
 ## 6. 如果过了Grace Period还在等待OPT审批，我还能合法呆在美国吗？
-### - 回答：
 可以的，只要你在Grace period之前寄出了OPT，在等待OPT审批期间可以合法呆在美国（包括无receipt的情况）。
 
 ## 7. 在等待OPT审批期间（没收到EAD卡之前）我可以离开美国去往其他国家吗？等EAD卡批下来了，让朋友寄给我，我再持EAD卡入境美国？
-### - 回答：
 不可以。所有律师和学校dso的建议都是绝对不要这么做。
 
 ## 8. 我已经寄了一份OPT申请寄到AZ/TX，可以再寄一份到Chicago lockbox吗？
-### - 回答：
 我们了解到各学校DSO的回复都是不建议这样做，材料没有问题不建议寄第二份！这样可能出现的风险有：<br/>
 1. 如果两份都拿到的receipt，最后withdraw其中一份，有风险会导致两份都被withdraw (具体例子: http://forum.desiopt.com/showthread.php/6245-Duplicate-OPT-Stem-application)<br/>
 2. 如果两份都拿到的receipt, 并且都进入系统进行处理，万一在grace period或者stem 180 days extension 期间其中一份被deny，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval. (我因为要重寄的话I-20 会卡在过期前1到2天寄到，看到很多人receipt时间会有前后1到2天的误差，所以担心第二份因为违反I-20 60 days rule被deny导致第二种情况的发生）<br/>
@@ -47,7 +41,6 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 ***不论什么情况，不要擅自re-file你们的opt，任何情况直接联系学校的DSO，他们会去帮你们找uscis！***<br/>
 
 ## 9. 在什么情况下我可以重新寄一份OPT申请
-### - 回答：
 首先，不要擅自re-file的opt，先直接联系学校的DSO，问他们是否可行！<br/>
 结合上面三种可能的风险，我们认为如果你满足以下几种情况，寄出第二份**可能**会相对风险较小:<br/>
 1. 首先如果你的i-20 不能超过30/60 天， 再没有明确拿到rejection的情况下重开i-20的再寄的风险很大，因为第一份申请不会被rej （if 你没有用错表格或者通过取消check等方式让他被rej），而是在进入系统后会被deny，如果那时候你第二份也进入了系统，很可能在第二份process期间你的第一份就被deny了，sevis record会有被直接terminate 的risk. <br/>
@@ -55,8 +48,7 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 3. 两份申请都要确保万无一失，如果不能确定第二份最后能不能算在60天内寄到，就有第二份被deny的风险，那么同上，SEVIS 系统被直接terminate, 另一份有可能也无法拿到approval.<br/>
 
 ## 10.什么是REF, Rejection, 和Denial?
-### - 回答：<br/>
-回答来源：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
+[回答来源](https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf)<br/>
 ***REF(Requests for Evidence)***<br/>
 当需要进行相对较小的更正或澄清（附加信息）时，会向学生发送证据请求（RFE）。这些可以包括：<br/>
 1.有效期少于六个月或护照过期的护照<br/>
@@ -78,7 +70,7 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 
 ***Denial***<br/>
 当您的OPT申请数据包发送到服务中心进行裁决（处理）时，仲裁员会发现您完全没有资格获得OPT资格。可能原因：<br/>
-1.您在ISSS签发I-20日期后的30天内将申请数据包提交给了USCIS。<br/>
+1.您在ISSS签发I-20日期后超过30天才将申请数据包提交给了USCIS。<br/>
 2.您已经获得同一学位级别的OPT批准（每个学位级别仅一个OPT授权）。<br/>
 3.您显然没有达到您的资格要求（即一学年的全日制学习）<br/>
 4.您在60天宽限期到期后申请了OPT <br/>
@@ -86,8 +78,7 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 
 
 ## 11. 如果OPT申请被REF, Rejection, Denial怎么办？
-### - 回答：<br/>
-回答来源：https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf<br/>
+[回答来源](https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf)<br/>
 
 ***注意：在回应REF, Rejection, Denial之前，始终先向您的学校DSO求教！！！ *** <br/>
 ***回应 RFE：*** <br/>
