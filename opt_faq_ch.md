@@ -80,7 +80,7 @@ Phone: I want to check my case status -> I have not received my receipt -> I've 
 ## 11. 如果OPT申请被REF, Rejection, Denial怎么办？
 [回答来源](https://sjsu.edu/isss/docs/Rejections_Denials_RFEs.pdf)<br/>
 
-***注意：在回应REF, Rejection, Denial之前，始终先向您的学校DSO求教！！！ *** <br/>
+***注意：在回应REF, Rejection, Denial之前，始终先向您的学校DSO求教！！！*** <br/>
 ***回应 RFE：*** <br/>
 1.严格按照RFE的指示进行操作（例如，它将明确告诉您您需要重做或提交的内容，不要提交过多的文档！）<br/>
 2.确保在提交新文件的顶部还包括RFE的整个求职信。<br/>
