@@ -35,9 +35,9 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
   1. this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through<br/>
   2. Currently Rob's team is working on the complaints, which will be ready within the next day or 2.<br/>
   3. Case will be filed in Ohio<br/>
-  4. The case will be filed within the next couple of days (hoping would be this Thursday). <br/>
+  4. The case will be filed within the next couple of days. <br/>
 
-- **The payment link have not yet been received. Robert said that it might be ready by tonight or tomorrow (I am not sure whether it is payment in batches or as a whole. I will report to you when Robert responds)**< br/>
+- **The payment link have not yet been received. (not sure whether it is payment in batches or as a whole. will report to you guys when Robert responds)**< br/>
 - **Because it is a class action, reserved plaintiff will quickly/anytime become named plaintiff. This is Rob's strategy, so please prepare materials, such as tracking number, proof of delivery**<br/>
 
 ***1/28/2021*** Robert promised to take our case<br/>
