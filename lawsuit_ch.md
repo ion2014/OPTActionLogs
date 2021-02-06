@@ -34,9 +34,9 @@
   1. this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through<br/>
   2. Currently Robert's team is working on the complaints, which will be ready within the next day or 2.<br/>
   3. Case will be filed in Ohio<br/>
-  4. The case will be filed within the next couple of days (hoping would be this Thursday). <br/>
+  4. The case will be filed within the next couple of days. <br/>
   
-- **目前还没有收到付款的reference number和link，Rob爷爷说might be ready by tonight or tomorrow (目前不确定是分批付款还是整体付款，等Rob爷爷明天回复再向大家汇报）**<br/>
+- **目前还没有收到付款的reference number和link(目前不确定是分批付款还是整体付款，等Rob爷爷回复再向大家汇报）**<br/>
 - **因为是class action，reserved plaintiff 会很快/随时变成named plaintiff，这是Rob爷爷的strategy，所以也请大家准备好材料，比如tracking number，证明delivery**<br/>
 
 
