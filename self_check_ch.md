@@ -10,8 +10,8 @@
 ### 是否有在i-765上签名?
 
 ### 是否选择了正确的申请类别?
-Initial OPT: (c)(3)(b)\
-STEM OPT Extension: (c)(3)(c) 
+Initial OPT: (c)(3)(B)\
+STEM OPT Extension: (c)(3)(C) 
 
 ### 付款信息?
 金额: $410\
