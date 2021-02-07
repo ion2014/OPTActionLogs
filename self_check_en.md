@@ -12,8 +12,8 @@ Name/Passport Number/Contact info/SSN\
 
 ### Did you choose the correct category?
 
-Initial OPT: (c)(3)(b) \
-STEM OPT Extension: (c)(3)(c)<br/>
+Initial OPT: (c)(3)(B) \
+STEM OPT Extension: (c)(3)(C)<br/>
 
 ### Correct payment infomation?
 Amount: $410\
