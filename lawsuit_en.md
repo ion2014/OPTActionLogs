@@ -1,4 +1,4 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[Index](https://ion2014.github.io/OPTActionLogs)|[首页](https://ion2014.github.io/OPTActionLogs/index_ch)<br/>
 [English](https://ion2014.github.io/OPTActionLogs/lawsuit_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/lawsuit_ch)<br/>
 
 
@@ -13,9 +13,14 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 - **According to Brad Banias, you can only participate in one class action, so for people who chooses Robert's class action, don't participate in Brad's, and vice versa** <br/>
 - Many students worry about what to do if they are rej/deny after the Grace period. This question is one of the core demands of our lawsuit. We have emphasized it with every lawyer, and they will address this issue in their argue points. So don’t worry.<br/>
 
+***Here are our main request proposals***:<br/>
+1. We want to see USCIS adjudicate our case and approve our EAD card within 90 days of the application delivery.<br/>
+2. We want USCIS to promise that no applications shall be rejected or denied if the applicant has not received a receipt notice in 60 days. We demand USCIS allow the applicant to refile their applications or provide supplementary materials if requested.<br/>
 
-
-***Disclaimer: Joining the lawsuit is completely voluntary. The choice of lawyer is completely voluntary. Please note that no lawyer or Volunteer Committee forces anyone to join any litigation or promise any outcome.***<br/>
+***Disclaimers***: 
+1. Joining the lawsuit is completely voluntary. The choice of lawyer is completely voluntary. Please note that no lawyer or Volunteer Committee forces anyone to join any litigation or promise any outcome.
+2. As of now, it is strongly recommended NOT to join two lawsuits simultaneously at this point in time as this might complicate the case for the law firms and jeopardize the lawsuit. 
+3. As a reserved plaintiff, you could withdraw anytime from the class action.
 
 --------------------
 ## [Robert Cohen](https://www.porterwright.com/robert-h-cohen/)
