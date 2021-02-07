@@ -49,8 +49,8 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 ### Lawsuit Plan
 - Class action lawsuit on behalf of students who have filed applications for Optional Practical Training and STEM extensions of OPT with USCIS, and have not received receipts or the benefits of a timely processed application. <br/>
 - ***Definition for our class: those who have no receipt and those who have not enjoyed the benefits of a timely processed OPT/EAD. Therefore, no matter TX or AZ, as long as it is delayed after the end of October, it can be counted Come in. Now it's the overall delay. It should have been approve in three months. Now neither AZ nor TX can be approve in three months, so our big wave is counted. (Because we first sent OPT 90 days before graduation, in theory, USCIS should issue us the card within 90 days after we send it.) I also asked Robert about AZ; Robert said that AZ must be included, and Robert said that TX and AZ are inseparable in EAD matters, because the same department handles the approval.***<br/>
-- ***The request of Grandpa Rob's case is not receipt, which has nothing to do with receipt, but EAD, which is to get an EAD card.***<br/>
-- Last year, in the case of Rob grandpa h4, there were about 300 people in plaintiff, but even if it wasn't plaintiff, they still enjoyed the final lawsuit results, that is, you can go to work with the approval receipt, you don't need to get the ead card. <br/>
+- ***The request of Robert's case is not receipt, which has nothing to do with receipt, but EAD, which is to get an EAD card.***<br/>
+- Last year, in Robert's H4 case, there were about 300 plaintiffs, but even if someone wasn't plaintiff, he/she still enjoyed the final lawsuit benefits, that is, you can go to work with the approval receipt, you don't need to get the ead card. <br/>
 - File location: OH
 - $50/person (material collection/filing fee, not legal fee)
 - Plans: The case will be filed within the next couple of days (hoping would be this Thursday)
