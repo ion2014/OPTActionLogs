@@ -1,7 +1,7 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[Index](https://ion2014.github.io/OPTActionLogs)|[首页](https://ion2014.github.io/OPTActionLogs/index_ch)<br/>
 [English](https://ion2014.github.io/OPTActionLogs/lawsuit_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/lawsuit_ch)
 
-关于Lawsuit的任何问题请先查看[Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
+关于Lawsuit的任何问题请先查看 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
 # 诉讼进程
@@ -12,7 +12,16 @@
 - **根据Brad Banias的说法，class action只能参加一个，所以大家如果选了Robert的同学，就不要参加Brad的了，反之亦然** <br/>
 - 关于很多同学担心的过了Grace period如果被rej/deny怎么办，这个问题是我们lawsuit的核心诉求之一，我们跟每一位律师都强调了，他们也表示argue point会考虑到这个方面，所以大家不用担心。<br/>
 
-***Disclaimer：加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。***<br/>
+
+***以下是我们主要诉求的Proposal***:<br/>
+1. We want to see USCIS adjudicate our case and approve our EAD card within 90 days of the application delivery.<br/>
+2. We want USCIS to promise that no applications shall be rejected or denied if the applicant has not received a receipt notice in 60 days. We demand USCIS allow the applicant to refile their applications or provide supplementary materials if requested.<br/>
+
+***Disclaimers***: 
+1. 加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。
+2. 到目前为止，强烈建议您此时不要同时加入两个诉讼，因为这可能会使律师事务所的案子复杂化并危及诉讼。
+3. 作为reserved plaintiff, 你可以随时退出class action.
+
 
 --------------------
 ## [Robert Cohen](https://www.porterwright.com/robert-h-cohen/)
@@ -42,7 +51,7 @@
 
 ***1/28/2021*** Robert答应接下我们的case<br/>
 ***1/28/2021*** 第一诉讼人（第一个联系Robert的同学）签署fee agreement<br/>
-***1/28/2021*** 找到一名愿意作为representative的Ohio的同学（因为case要file到Ohio的联邦法院），同时我们得知需要15个named plaintiffs，其余同学将作为reserved plaintiffs进行诉讼(关于named plaintiff和reserved plaintiffs的见[lawsuit FAQ])<br/>
+***1/28/2021*** 找到一名愿意作为representative的Ohio的同学（因为case要file到Ohio的联邦法院），同时我们得知需要15个named plaintiffs，其余同学将作为reserved plaintiffs进行诉讼(关于named plaintiff和reserved plaintiffs的见 [lawsuit FAQ])<br/>
 ***1/19/2021*** 第一次zoom meeting<br/>
 
 
