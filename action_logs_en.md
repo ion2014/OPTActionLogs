@@ -1,9 +1,10 @@
-[首页](https://ion2014.github.io/OPTActionLogs/index_ch)|[index](https://ion2014.github.io/OPTActionLogs)<br/>
+[Index](https://ion2014.github.io/OPTActionLogs)|[首页](https://ion2014.github.io/OPTActionLogs/index_ch)<br/>
 [English](https://ion2014.github.io/OPTActionLogs/action_logs_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/action_logs_en)
 # Action Log
 Since mid-December until now, the action we have taken are (in reverse order):
 
 ### Seek legal assistance
+Please see [Lawsuit Process](https://ion2014.github.io/OPTActionLogs/lawsuit_ch) and [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_en)<br/>
 
 ### Seeking media coverage
 Update (Jan.20):\
