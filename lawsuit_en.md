@@ -6,6 +6,9 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 ***For those who want to participate in Robert Cohen's Class Action, please complete [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)as soon as possible.***<br/>
 
 # Litigation Process
+- 1/23/2021 The Volunteer Committee organized a meeting that included answers to basic questions related to litigation and various lawyers. The slides and meeting video are as follows:<br/>
+  - [Slides: What Volunteers have done about the Lawsuit](https://drive.google.com/file/d/1KGDny0I3IZyF8RuMAAhzqe2BQETfdHjE/view)<br/>
+  - [Zoom Video Recording: What Volunteers have done about the Lawsuit](https://drive.google.com/file/d/11_Yd-j1XkMJXeN_e7zTBIpwOArTQZwk9/view?usp=sharing)<br/>
 - At present, we have contacted a total of 9 lawyers. The summary of each lawyer's information and contact information is as follows. <br/>
 - The results of the last poll showed that most people’s first choice was Robert Cohen, and the second choice was Brad Banias. 
   - For lawyer Robert, we will organize people together. 
