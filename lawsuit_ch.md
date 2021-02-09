@@ -35,7 +35,12 @@
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
-***The fees collection process has not started yet, and please wait for further notice.***<br/>
+***The fees collection process has not started yet, Robert hopes to send out the payment link later today (02/09/2021).***<br/>
+
+***1/30/2021*** 收到Robert爷爷邮件回复，以及对于已经过了Grace Period被Reject还能否呆在美国的问题的回答，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)
+We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.)  
+ 
+Robert hopes to send out the payment link later today (02/09/2021).
 
 ***1/30/2021*** Phone calls with Robert. The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.
 
