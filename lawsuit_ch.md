@@ -18,9 +18,9 @@
 2. We want USCIS to promise that no applications shall be rejected or denied if the applicant has not received a receipt notice in 60 days. We demand USCIS allow the applicant to refile their applications or provide supplementary materials if requested.<br/>
 
 ***Disclaimers***: 
-1. 加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。
-2. 到目前为止，强烈建议您此时不要同时加入两个诉讼，因为这可能会使律师事务所的案子复杂化并危及诉讼。
-3. 作为reserved plaintiff, 你可以随时退出class action.
+1. 加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。<br/>
+2. 到目前为止，强烈建议您此时不要同时加入两个诉讼，因为这可能会使律师事务所的案子复杂化并危及诉讼。<br/>
+3. 作为reserved plaintiff, 你可以随时退出class action.<br/>
 
 
 --------------------
@@ -37,14 +37,16 @@
 
 ***The fees collection process has not started yet, Robert hopes to send out the payment link later today (02/09/2021).***<br/>
 
-***1/30/2021*** 收到Robert爷爷邮件回复，以及对于已经过了Grace Period被Reject还能否呆在美国的问题的回答，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)
-We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.)  
+***1/30/2021*** 收到Robert爷爷邮件回复，汇总如下：<br/>
+已经过了Grace Period被Reject还能否呆在美国的问题，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
+We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
  
-Robert hopes to send out the payment link later today (02/09/2021).
+Robert hopes to send out the payment link later today (02/09/2021).<br/>
 
-***1/30/2021*** Phone calls with Robert. The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.
+***1/30/2021*** 跟Robert爷爷电话，汇总如下:<br/>
+The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.<br/>
 
-***1/29/2021 跟Robert爷爷电话，汇总如下：***<br/>
+***1/29/2021*** 跟Robert爷爷电话，汇总如下: <br/>
   1. this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through<br/>
   2. Currently Robert's team is working on the complaints, which will be ready within the next day or 2.<br/>
   3. Case will be filed in Ohio<br/>
