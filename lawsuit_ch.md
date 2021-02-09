@@ -46,6 +46,9 @@ We hope to file no later than Thursday (02/11/2021), and will email a draft comp
  
 Robert hopes to send out the payment link later today (02/09/2021).<br/>
 
+Robert also said: <br/>
+We have seen announcements with an excuse as to why the receipts have been delayed, and while we don’t think the excuses provided have been persuasive, it is clear that USCIS recognizes they have a problem.  Our concern is not only the delay in the receipts, but with the substantive problems that the delay has caused, many of which are identified in the discussion earlier in this string.  We hope and anticipate that this lawsuit will give us an opportunity to fashion remedies for students who have been impacted by the delay, not only the delay getting the receipt, but consequences of that the delay has caused, such as shortened periods of OPT and rejections for technical reasons coupled with the expiration of deadlines. <br/>
+
 ***1/30/2021*** 跟Robert爷爷电话，汇总如下:<br/>
 The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.<br/>
 
