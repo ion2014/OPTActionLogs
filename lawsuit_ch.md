@@ -58,7 +58,7 @@ The case has not been filed yet, but Robert and his team is working on it and wi
 
 ***1/28/2021*** Robert答应接下我们的case<br/>
 ***1/28/2021*** 第一诉讼人（第一个联系Robert的同学）签署fee agreement<br/>
-***1/28/2021*** 找到一名愿意作为representative的Ohio的同学（因为case要file到Ohio的联邦法院），同时我们得知需要15个named plaintiffs，其余同学将作为reserved plaintiffs进行诉讼(关于named plaintiff和reserved plaintiffs的见 [lawsuit FAQ])<br/>
+***1/28/2021*** 找到一名愿意作为representative的Ohio的同学（因为case要file到Ohio的联邦法院），同时我们得知需要15个named plaintiffs，其余同学将作为reserved plaintiffs进行诉讼(关于named plaintiff和reserved plaintiffs的见[Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch))<br/>
 ***1/19/2021*** 第一次zoom meeting<br/>
 
 
