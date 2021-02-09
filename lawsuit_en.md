@@ -2,7 +2,7 @@
 [English](https://ion2014.github.io/OPTActionLogs/lawsuit_en)|[简体中文](https://ion2014.github.io/OPTActionLogs/lawsuit_ch)<br/>
 
 
-For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
+For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_en)<br/>
 ***For those who want to participate in Robert Cohen's Class Action, please complete [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)as soon as possible.***<br/>
 
 # Litigation Process
@@ -32,9 +32,18 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 
 ### Lawsuit Process (in reverse order)
 ***Students who want to participate in Robert Class Action, complete it as soon as possible [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
-***The fees collection process has not started yet, and please wait for further notice.***<br/>
+***The fees collection process has not started yet, Robert hopes to send out the payment link later today (02/09/2021).***<br/>
 
-***1/30/2021*** Phone calls with Robert. The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.
+
+***2/09/2021*** Robert's email，summarized as follows:<br/>
+Whether a student can stay in the US if he/she gets a rejection notice after their grace period, please see [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_en)<br/>
+We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
+ 
+Robert hopes to send out the payment link later today (02/09/2021).<br/>
+
+
+***1/30/2021*** Phone calls with Robert, summarized as follows:<br/>
+The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.
 
 ***1/29/2021*** Phone calls with Robert, summarized as follows:<br/>
   1. this is a special case with an usual fee arrangement so that is why it is taking some time because there are several internal level of approval to go through<br/>
