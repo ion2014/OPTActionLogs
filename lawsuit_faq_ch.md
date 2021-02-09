@@ -19,4 +19,10 @@ Robert file的class群体是: "those who have no receipt and those who have not 
 ## 4. 如何确定自己是否被包括在Reserved plaintiff中呢?
 首先填写[gform](https://forms.gle/4mSvmdacZNomUQUV7), 稍后会有google sheet统计发布.
 
+
+## 5. If students have been waiting for the receipt for more than 2 months but only to get a rejection notice after their grace period, will they be eligible to still stay in the US for the final ruling of this class action lawsuit?
+
+律师回答：<br/>
+You asked whether students who are rejected after their grace period will be able to stay in the U.S. until a final ruling on the lawsuit.  We will ask the Court to allow these students to resubmit their applications after correcting them, even if their grace period has expired.  So the answer is that we don’t know yet, but we hope that the Court will grant this type of relief. 
+
 ***免责声明：本网站包含的资料并不是官方指南，只是目前同学们自己收集到的信息汇总，仅供参考。***
