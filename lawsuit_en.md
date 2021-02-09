@@ -56,7 +56,7 @@ The case has not been filed yet, but Robert and his team is working on it and wi
 
 ***1/28/2021*** Robert promised to take our case<br/>
 ***1/28/2021*** The first litigant (the first classmate to contact Robert) signs fee agreement<br/>
-***1/28/2021*** Find a student who is willing to be a representative of Ohio (because the case needs to file to the federal court in Ohio), and we learned that 15 named plaintiffs are needed, and the remaining students will be litigated as reserved plaintiffs (about named plaintiff and For reserved plaintiffs, see [lawsuit FAQ])<br/>
+***1/28/2021*** Find a student who is willing to be a representative of Ohio (because the case needs to file to the federal court in Ohio), and we learned that 15 named plaintiffs are needed, and the remaining students will be litigated as reserved plaintiffs (about named plaintiff and For reserved plaintiffs, see [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_en)<br/>
 ***1/19/2021*** first zoom meeting<br/>
 
 
