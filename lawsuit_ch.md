@@ -5,6 +5,9 @@
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
 # 诉讼进程
+- 1/23/2021 volunteer committee组织了一次zoom meeting，包含了对于诉讼和各个律师相关的基础问题的回答，Slides及会议录像如下：<br/>
+  - [Slides: What Volunteers have done about the Lawsuit](https://drive.google.com/file/d/1KGDny0I3IZyF8RuMAAhzqe2BQETfdHjE/view)<br/>
+  - [Zoom Video Recording: What Volunteers have done about the Lawsuit](https://drive.google.com/file/d/11_Yd-j1XkMJXeN_e7zTBIpwOArTQZwk9/view?usp=sharing)<br/>
 - 目前我们联系了共9位律师，每位律师的资料总结及联系方式汇总如下。<br/>
 - 上次投票结果显示大部分人的first choice为Robert Cohen，second choice为Brad Banias.
   - 对于Robert律师我们将统一组织.
