@@ -21,6 +21,9 @@ The class group of Robert file is: "those who have no receipt or those who have 
 ## 4. How to determine whether you are included in the Reserved plaintiff?
 First fill in [gform](https://forms.gle/4mSvmdacZNomUQUV7), and there will be a google sheet statistics release later.
 
+## 5. If students have been waiting for the receipt for more than 2 months but only to get a rejection notice after their grace period, will they be eligible to still stay in the US for the final ruling of this class action lawsuit?
+Answer from lawyer:<br/>
+You asked whether students who are rejected after their grace period will be able to stay in the U.S. until a final ruling on the lawsuit.  We will ask the Court to allow these students to resubmit their applications after correcting them, even if their grace period has expired.  So the answer is that we don’t know yet, but we hope that the Court will grant this type of relief. 
 
 
 
