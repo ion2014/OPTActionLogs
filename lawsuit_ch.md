@@ -38,16 +38,21 @@
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
-***The fees collection process has not started yet, Robert hopes to send out the payment link later today (02/09/2021).***<br/>
+
+***Named plaintiffs paid the fee today (02/09/2021). As for the reserved plaintiffs, no need of payment right now.***<br/>
+***Quote from Robert's email regarding the reserved plaintiffs:***<br/>
+The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
+
 
 ***2/09/2021*** 收到Robert爷爷邮件回复，汇总如下：<br/>
 已经过了Grace Period被Reject还能否呆在美国的问题，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
 We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
  
-Robert hopes to send out the payment link later today (02/09/2021).<br/>
+Robert sent out the payment link today, all named plaintiffs have completed payment (02/09/2021).<br/>
 
 Robert also said: <br/>
 We have seen announcements with an excuse as to why the receipts have been delayed, and while we don’t think the excuses provided have been persuasive, it is clear that USCIS recognizes they have a problem.  Our concern is not only the delay in the receipts, but with the substantive problems that the delay has caused, many of which are identified in the discussion earlier in this string.  We hope and anticipate that this lawsuit will give us an opportunity to fashion remedies for students who have been impacted by the delay, not only the delay getting the receipt, but consequences of that the delay has caused, such as shortened periods of OPT and rejections for technical reasons coupled with the expiration of deadlines. <br/>
+
 
 ***1/30/2021*** 跟Robert爷爷电话，汇总如下:<br/>
 The case has not been filed yet, but Robert and his team is working on it and will let us know once their done and will send out payment link by then.<br/>
