@@ -38,11 +38,13 @@
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform)***<br/>
 
+***Draft Complaint has been recieved and reviewd, sent back to Robert with feedback (02/10/2021).***
 
 ***All named plaintiffs have completed the payment today (02/09/2021). As for the reserved plaintiffs, no need of payment right now.***<br/>
 ***Quote from Robert's email regarding the reserved plaintiffs:***<br/>
 The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
 
+***2/10/2021*** 收到Robert爷爷Draft Complaint，we have sent back our feedback.<br/>
 
 ***2/09/2021*** 收到Robert爷爷邮件回复，汇总如下：<br/>
 已经过了Grace Period被Reject还能否呆在美国的问题，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
