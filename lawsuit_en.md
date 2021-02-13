@@ -43,12 +43,13 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 ***Quote from Robert's email regarding the reserved plaintiffs:***<br/>
 The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
 
+***2/12/2021*** According to Robert's suggestion, three Named Plaintiffs of Stem OPT have been added. The information has been collected and sent to Robert, waiting for a reply.<br/>
 
 ***2/10/2021*** Get Draft Complaint from Robert，we have sent back our feedback.<br/>
 
 ***2/09/2021*** Robert's email，summarized as follows:<br/>
 Whether a student can stay in the US if he/she gets a rejection notice after their grace period, please see [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_en)<br/>
-We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
+Emailed a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
  
 Robert hopes to send out the payment link later today (02/09/2021).<br/>
 
