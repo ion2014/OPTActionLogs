@@ -45,11 +45,13 @@
 ***Quote from Robert's email regarding the reserved plaintiffs:***<br/>
 The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
 
+***2/12/2021*** 根据Robert爷爷的建议增加了三位Stem OPT的Named Plaintiffs，已收集资料发给Robert，等待回复。<br/>
+
 ***2/10/2021*** 收到Robert爷爷Draft Complaint，we have sent back our feedback.<br/>
 
 ***2/09/2021*** 收到Robert爷爷邮件回复，汇总如下：<br/>
 已经过了Grace Period被Reject还能否呆在美国的问题，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
-We hope to file no later than Thursday (02/11/2021), and will email a draft complaint for volunteer committee to review later today or tomorrow.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
+Emailed a draft complaint for volunteer committee to review later today.  (The complaint is the legal document that begins a lawsuit; it identifies all the plaintiffs and defendants and explains the facts and legal claims.) <br/>
  
 Robert sent out the payment link today, all named plaintiffs have completed the payment (02/09/2021).<br/>
 
