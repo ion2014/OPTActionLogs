@@ -3,7 +3,7 @@
 
 Before you viewing any logs after, please first check the [Self-Check List](https://ion2014.github.io/OPTActionLogs/self_check_en), if there's anything wrong with your application, contact your OISSS to get a new I-20(if the former one exceeds 30 days) and resubmit.
 
-***CASE IS FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
+***CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
 Please help us spread the news! Raise awareness on social media!<br/>
 Our official Twitter account: [@SaveDelayedOPT](https://twitter.com/SaveDelayedOPT)<br/>
 
