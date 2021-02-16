@@ -34,7 +34,7 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 
 
 ### Lawsuit Process (in reverse order)
-***CASE IS FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
+***CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
 
 ***Students who want to participate in Robert Class Action, complete this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform) as soon as possible, you can still be added as reserved plaintiff***<br/>
 
@@ -43,7 +43,7 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 ***Quote from Robert's email regarding the reserved plaintiffs:***<br/>
 The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
 
-***2/16/2021*** CASE IS FILED TO THE COURT!!!!!! 🎉🎉🎉 <br/>
+***2/16/2021*** CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 <br/>
 Note: you can still be added as reserved plaintiffs if you want to join the case; just fill out the Google form listed on the top of this page. <br/>
 
 ***2/15/2021*** Received Robert's second version of Draft Complaint, sent back some minor corrections.<br/>
