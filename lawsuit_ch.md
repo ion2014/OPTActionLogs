@@ -37,8 +37,6 @@
 ### Lawsuit进程（倒叙）
 
 ***CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
-- [OPT Filed Complaint (redacted)](https://www.dropbox.com/s/lq8r3fq2p43td8z/OPT%20Filed%20Complaint%20-%20redacted.pdf?dl=0)<br/>
-
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform),现在仍然可以作为reserved plaintiff加入***<br/>
 
@@ -48,7 +46,6 @@
 The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
 
 ***2/16/2021*** CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 <br/>
-[OPT Filed Complaint (redacted)](https://www.dropbox.com/s/lq8r3fq2p43td8z/OPT%20Filed%20Complaint%20-%20redacted.pdf?dl=0)<br/>
 Note: you can still be added as reserved plaintiffs if you want to join the case; just fill out the Google form listed on the top of this page. <br/>
 
 ***2/15/2021*** 收到Robert爷爷第二版Draft Complaint，修改后发回。<br/>
