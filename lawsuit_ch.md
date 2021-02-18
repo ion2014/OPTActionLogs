@@ -16,9 +16,17 @@
 - 关于很多同学担心的过了Grace period如果被rej/deny怎么办，这个问题是我们lawsuit的核心诉求之一，我们跟每一位律师都强调了，他们也表示argue point会考虑到这个方面，所以大家不用担心。<br/>
 
 
-***以下是我们主要诉求的Proposal***:<br/>
-1. We want to see USCIS adjudicate our case and approve our EAD card within 90 days of the application delivery.<br/>
-2. We want USCIS to promise that no applications shall be rejected or denied if the applicant has not received a receipt notice in 60 days. We demand USCIS allow the applicant to refile their applications or provide supplementary materials if requested.<br/>
+***以下是我们主要诉求 (Quote from the filed complaint)***:<br/>
+1. Plaintiffs seek, on behalf of themselves and unnamed class members, a mandatory temporary restraining order and preliminary and permanent injunctive relief that requires USCIS to open, process and adjudicate applications submitted by Plaintiffs and unnamed class members on an immediate basis, and to provide weekly status reports to the Court and counsel.<br/>
+2. Plaintiffs further seek, on behalf of themselves and unnamed class members, a declaration that USCIS has violated its legal obligations to open, process and adjudicate the applications submitted by Plaintiffs and unnamed class members.<br/>
+3. Plaintiffs further seek, on behalf of themselves and unnamed class members, equitable relief that relieves them of the irreparable harm that they have suffered and are threatened with suffering, including the following relief:<br/>
+(a) an order that enjoins ICE from removing Plaintiffs and unnamed class members who have lost their F-1 status while their applications remain pending with USCIS;<br/>
+(b) an order that students whose grace period expired while they were waiting for USCIS to adjudicate their applications will remain in F-1 status until at least
+fourteen (14) days after their application has been adjudicated;<br/>
+(c) an order that requires USCIS not to reject applications submitted by Plaintiffs and unnamed class members for technical errors where such applications cannot be corrected and resubmitted within the applicable deadlines, and instead to accept such applications, issue a receipt, and issue a Request for Evidence to correct any alleged deficiencies;<br/>
+(d) in addition or in the alternative, an order that requires USCIS to accept and consider applications that are corrected and resubmitted by Plaintiffs and unnamed class members within sixty (60) days after the date that they are rejected, notwithstanding the expiration of the applicable deadlines; and<br/>
+(e) for OPT applications, an order that permits Plaintiffs and unnamed class members to complete their full 12 months of optional practical training running from the date that their application is approved, even if USCIS’s undue delay means that they must complete it later than 14 months after the date they completed their studies.<br/>
+4. Plaintiff further seeks an award of reasonable attorneys’ fees and costs under the Equal Access to Justice Act.<br/>
 
 ***Disclaimers***: 
 1. 加入诉讼完全自愿的。对于律师的选择完全自愿。请注意，没有律师或Volunteer Committee强迫任何人加入任何诉讼或承诺任何结果。<br/>
