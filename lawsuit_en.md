@@ -16,9 +16,17 @@ For any questions about Lawsuit, please first checkout [Lawsuit FAQ](https://ion
 - **According to Brad Banias, you can only participate in one class action, so for people who chooses Robert's class action, don't participate in Brad's, and vice versa** <br/>
 - Many students worry about what to do if they are rej/deny after the Grace period. This question is one of the core demands of our lawsuit. We have emphasized it with every lawyer, and they will address this issue in their argue points. So don’t worry.<br/>
 
-***Here are our main request proposals***:<br/>
-1. We want to see USCIS adjudicate our case and approve our EAD card within 90 days of the application delivery.<br/>
-2. We want USCIS to promise that no applications shall be rejected or denied if the applicant has not received a receipt notice in 60 days. We demand USCIS allow the applicant to refile their applications or provide supplementary materials if requested.<br/>
+***Here are our main Appeals (Quote from the filed complaint)***:<br/>
+1. Plaintiffs seek, on behalf of themselves and unnamed class members, a mandatory temporary restraining order and preliminary and permanent injunctive relief that requires USCIS to open, process and adjudicate applications submitted by Plaintiffs and unnamed class members on an immediate basis, and to provide weekly status reports to the Court and counsel.<br/>
+2. Plaintiffs further seek, on behalf of themselves and unnamed class members, a declaration that USCIS has violated its legal obligations to open, process and adjudicate the applications submitted by Plaintiffs and unnamed class members.<br/>
+3. Plaintiffs further seek, on behalf of themselves and unnamed class members, equitable relief that relieves them of the irreparable harm that they have suffered and are threatened with suffering, including the following relief:<br/>
+(a) an order that enjoins ICE from removing Plaintiffs and unnamed class members who have lost their F-1 status while their applications remain pending with USCIS;<br/>
+(b) an order that students whose grace period expired while they were waiting for USCIS to adjudicate their applications will remain in F-1 status until at least
+fourteen (14) days after their application has been adjudicated;<br/>
+(c) an order that requires USCIS not to reject applications submitted by Plaintiffs and unnamed class members for technical errors where such applications cannot be corrected and resubmitted within the applicable deadlines, and instead to accept such applications, issue a receipt, and issue a Request for Evidence to correct any alleged deficiencies;<br/>
+(d) in addition or in the alternative, an order that requires USCIS to accept and consider applications that are corrected and resubmitted by Plaintiffs and unnamed class members within sixty (60) days after the date that they are rejected, notwithstanding the expiration of the applicable deadlines; and<br/>
+(e) for OPT applications, an order that permits Plaintiffs and unnamed class members to complete their full 12 months of optional practical training running from the date that their application is approved, even if USCIS’s undue delay means that they must complete it later than 14 months after the date they completed their studies.<br/>
+4. Plaintiff further seeks an award of reasonable attorneys’ fees and costs under the Equal Access to Justice Act.<br/>
 
 ***Disclaimers***: 
 1. Joining the lawsuit is completely voluntary. The choice of lawyer is completely voluntary. Please note that no lawyer or Volunteer Committee forces anyone to join any litigation or promise any outcome.
