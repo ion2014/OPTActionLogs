@@ -44,7 +44,7 @@ fourteen (14) days after their application has been adjudicated;<br/>
 
 ### Lawsuit进程（倒叙）
 
-***[OPT CLASS ACTION](http://www.optclassaction.com/), this is the official website of the class action, created by Robert Cohen and his team to provide updates to public.*** <br/>
+***The class action's official website is [OPT CLASS ACTION](http://www.optclassaction.com/), created by Robert Cohen and his team to provide updates to the public.*** <br/>
 
 ***CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
 
