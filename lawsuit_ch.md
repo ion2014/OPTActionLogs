@@ -50,11 +50,13 @@ fourteen (14) days after their application has been adjudicated;<br/>
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform),现在仍然可以作为reserved plaintiff加入***<br/>
 
-***2/23/2020*** Robert爷爷邮件Update lawsuit进展：<br/>
+***2/24/2021*** The "Status of Settlement Discussions" is posted by Robert on the website [OPT CLASS ACTION](http://www.optclassaction.com/)
+
+***2/23/2021*** Robert爷爷邮件Update lawsuit进展：<br/>
 1. Robert's team met with the Government lawyers twice last week to discuss the issues raised by our complaint and they expect to continue the discussions this week.<br/>
 2. Robert created the website [OPT CLASS ACTION](http://www.optclassaction.com/) to provide updates and information for the named plaintiffs group, other students who are members of the proposed class, and the public.<br/>
 
-***2/18/2020*** Robert爷爷邮件Update lawsuit进展：<br/>
+***2/18/2021*** Robert爷爷邮件Update lawsuit进展：<br/>
 Today we received a call from the Assistant US Attorneys representing the Government agencies with an offer to enter into settlement discussions. This first call was very productive and while we didn’t resolve anything in particular, we did agree on a framework for both our discussions and the nature of a final settlement agreement. If we can come to agreement, we will avoid the need for lengthy litigation and will be able to develop an agreement that provides the relief we are seeking. I want to emphasize that it not a “done deal,” we still have a lot of work over the next several days to address all of the issues raised by the complaint, but we are hopeful that this was a good sign and wanted to pass that along. We are also hopeful that by coming to an agreement with a settlement, it will resolve all of the issues quickly. While I would like to provide a firm timeline, at this point, we can’t do that other than to say we are going to be putting this on a fast track to the extent possible. The government also appears to be interested in resolving this quickly. <br/>
 
 ***2/16/2021*** CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 <br/>
