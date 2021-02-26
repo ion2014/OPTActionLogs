@@ -44,11 +44,15 @@ fourteen (14) days after their application has been adjudicated;<br/>
 
 ### Lawsuit进程（倒叙）
 
-***The class action's official website is [OPT CLASS ACTION](http://www.optclassaction.com/), created by Robert Cohen and his team to provide updates to the public.*** <br/>
+***🎉🎉🎉诉讼初步成果: [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt) (2/26/2021), 诉讼还在继续*** <br/>
 
-***CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
+***Checkout [OPT CLASS ACTION](http://www.optclassaction.com/), created by Robert Cohen to provide updates to the public.*** <br/>
 
 ***想要参加 Robert Class Action的同学，尽快完成 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform),现在仍然可以作为reserved plaintiff加入***<br/>
+<br/>
+<br/>
+
+***2/26/2021*** 🎉🎉🎉 诉讼初步成果: [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt) (2/26/2021), 诉讼还在继续*** <br/>
 
 ***2/24/2021*** The "Status of Settlement Discussions" is posted by Robert on the website [OPT CLASS ACTION](http://www.optclassaction.com/)
 
@@ -59,7 +63,7 @@ fourteen (14) days after their application has been adjudicated;<br/>
 ***2/18/2021*** Robert爷爷邮件Update lawsuit进展：<br/>
 Today we received a call from the Assistant US Attorneys representing the Government agencies with an offer to enter into settlement discussions. This first call was very productive and while we didn’t resolve anything in particular, we did agree on a framework for both our discussions and the nature of a final settlement agreement. If we can come to agreement, we will avoid the need for lengthy litigation and will be able to develop an agreement that provides the relief we are seeking. I want to emphasize that it not a “done deal,” we still have a lot of work over the next several days to address all of the issues raised by the complaint, but we are hopeful that this was a good sign and wanted to pass that along. We are also hopeful that by coming to an agreement with a settlement, it will resolve all of the issues quickly. While I would like to provide a firm timeline, at this point, we can’t do that other than to say we are going to be putting this on a fast track to the extent possible. The government also appears to be interested in resolving this quickly. <br/>
 
-***2/16/2021*** CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 <br/>
+***2/16/2021*** 🎉🎉🎉 CASE HAS BEEN FILED TO THE COURT!!!!!!  <br/>
 Note: you can still be added as reserved plaintiffs if you want to join the case; just fill out the Google form listed on the top of this page. <br/>
 
 ***2/15/2021*** 收到Robert爷爷第二版Draft Complaint，修改后发回。<br/>
@@ -70,10 +74,7 @@ Note: you can still be added as reserved plaintiffs if you want to join the case
 
 ***2/09/2021***
 First batch of named plaintiffs have completed the payment today (02/09/2021). <br/>
-The lawyer selected named plaintiffs. If you were not contacted by the lawyer directly, you are not named plaintiffs; instead, you and hundreds of students will be listed as reserved plaintiffs once you filled out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform). Resevered plaintiffs will be added as named plaintiffs in batches. As for the reserved plaintiffs, no need for payment right now.<br/>
-
-- ***Quote from Robert's email regarding the reserved plaintiffs:***<br/>
-The benefit of a class action is that the named plaintiffs are representatives of the class. The class will included all foreign citizens in student status who have submitted an application for OPT, and whose receipt has not been issued or whose application has not been timely adjudicated.  It is not necessary for every member of the class to be named, they are part of this class by definition, so when the Court orders a remedy, or we are able to negotiate a remedy, all members of the class will be included, not just those named.  The named plaintiffs represent a range of issues, and our goal was include the representatives as just that, representative of the entire class.  The named plaintiffs, as representatives, have taken on the additional responsibility of assisting us with information and communication, and the assistance with costs.  If we find that the costs are higher, and we need more money we may ask for others to make a similar contribution.
+The lawyer selected named plaintiffs. If you were not contacted by the lawyer directly, you are not named plaintiffs; instead, you and hundreds of students will be listed as reserved plaintiffs once you filled out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPiJ1dh5pDOxtDM6obqQIi1JDP2pCH57bJyQttGXcj8yo4YA/viewform). Checkout [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch) for more info regarding named/reserved plaintiffs.<br/>
 
 ***2/09/2021*** 收到Robert爷爷邮件回复，汇总如下：<br/>
 已经过了Grace Period被Reject还能否呆在美国的问题，详见 [Lawsuit FAQ](https://ion2014.github.io/OPTActionLogs/lawsuit_faq_ch)<br/>
