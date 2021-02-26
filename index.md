@@ -3,7 +3,7 @@
 
 Before you viewing any logs after, please first check the [Self-Check List](https://ion2014.github.io/OPTActionLogs/self_check_en), if there's anything wrong with your application, contact your OISSS to get a new I-20(if the former one exceeds 30 days) and resubmit.
 
-***🎉🎉🎉Lawsuit achievement: [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt) (2/26/2021), lawsuit is still in progress*** <br/>
+***🎉🎉🎉 Lawsuit Achievement: [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt) (2/26/2021), lawsuit is still in progress*** <br/>
 
 ***Checkout [OPT CLASS ACTION](http://www.optclassaction.com/), created by Robert Cohen to provide updates to the public.*** <br/>
 
