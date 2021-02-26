@@ -7,7 +7,9 @@ Before you viewing any logs after, please first check the [Self-Check List](http
 
 ***Checkout [OPT CLASS ACTION](http://www.optclassaction.com/), created by Robert Cohen to provide updates to the public.*** <br/>
 
-***CASE HAS BEEN FILED TO THE COURT!!!!!! 🎉🎉🎉 (2/16/2021)*** <br/>
+***🎉🎉🎉 CASE HAS BEEN FILED TO THE COURT! (2/16/2021)*** <br/>
+
+Please help us spread the news! Raise awareness on social media!
 Our official Twitter account: [@SaveDelayedOPT](https://twitter.com/SaveDelayedOPT)<br/>
 
 [Lawsuit Process](https://ion2014.github.io/OPTActionLogs/lawsuit_en)\
