@@ -1,7 +1,7 @@
 ## OPT Action Logs
 [English](https://ion2014.github.io/OPTActionLogs/index)|[简体中文](https://ion2014.github.io/OPTActionLogs/index_ch)
 
-在查看对应行动之前, 请先进行 [申请自查](https://ion2014.github.io/OPTActionLogs/self_check_ch), 如果发现自己申请中有任何问题, 请马上联系OISS获取新的i-20(如果上一封i-20已经超过30天), 重新提交i-765.
+在查看对应行动之前, 请先进行 [申请自查](https://ion2014.github.io/OPTActionLogs/self_check_ch), 如果发现自己申请中有任何问题, 请马上联系学校DSO，然后根据USCIS[最新发布的规定](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt)来决定下一步行动.
 
 ***🎉🎉🎉 诉讼初步成果: [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt) (2/26/2021), 诉讼还在继续*** <br/>
 
