@@ -52,7 +52,14 @@ fourteen (14) days after their application has been adjudicated;<br/>
 <br/>
 
 
-***2/26/2021*** 🎉🎉🎉 Lawsuit Achievement: [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt) (2/26/2021), lawsuit is still in progress.<br/>
+***2/26/2021*** 🎉🎉🎉 Lawsuit reached first milestone, USCIS announced new policy (the lawsuit is still in progress. Next week, the lawyers will discuss with the government to address the issue of extremely long OPT processing time): 
+
+Becuase of the delays at certain lockboxes, USCIS are extending the following flexibilities to applicants who filed application  after Oct. 1, 2020, through May 1, 2021:
+1. To allow F-1 students to complete the full period of requested OPT (up to 12 months), USCIS will allow the 14-month period to commence from the date of approval of the Form I-765 for applications for post-completion OPT. And F1 students may request correction if the OPT time is less than 12 months.
+2. USCIS will accept a refiled Form I-765 for OPT and STEM OPT, no need an new I-20 from school.
+3. For missing or deficient signature, USCIS will issue a Request for Evidence rather than deny the application.
+
+For more details, please see [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt)<br/>
 
 ***2/24/2021*** The "Status of Settlement Discussions" is posted by Robert on the website [OPT CLASS ACTION](http://www.optclassaction.com/)
 
