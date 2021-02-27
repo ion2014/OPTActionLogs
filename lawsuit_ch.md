@@ -54,8 +54,8 @@ fourteen (14) days after their application has been adjudicated;<br/>
 
 ***2/26/2021*** 🎉🎉🎉 诉讼取得初步成果，USCIS政策更新如下（诉讼仍在继续，下周律师将和政府着重讨论解决OPTprocessingtime过长的问题）：<br/>
 由于lockbox延迟的情形，移民局将允许去年10月1号到今年5月1号间递交Regular OPT或是STEM OPT申请但被拒绝的申请人可以享有如下的temporary flexibilities：<br/>
-1. 12个月OPT从批准时间算起之前签发的不足12个月的OPT可以申请correction<br/>
-2. Reject之后只要在2021年5月31日前refile USCIS都会处理，并且申请人不需要从学校取得新的I-20<br/>
+1. 12个月OPT从批准时间算起，之前签发的不足12个月的OPT可以申请correction<br/>
+2. Reject之后，只要在2021年5月31日前refile USCIS都会处理，并且申请人不需要从学校取得新的I-20<br/>
 3. 签名问题USCIS不会reject而会发RFE<br/>
 
 详细规定请参考 [USCIS Extends Flexibilities to Certain Applicants Filing Form I-765 for OPT](https://www.uscis.gov/news/alerts/uscis-extends-flexibilities-to-certain-applicants-filing-form-i-765-for-opt)<br/>
