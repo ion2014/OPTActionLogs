@@ -51,6 +51,12 @@ fourteen (14) days after their application has been adjudicated;<br/>
 <br/>
 <br/>
 
+***03/04/2021*** Update from phone call with Rob:
+1. Interim WA: No response from USCIS today (maybe tomorrow, no guarantee)
+2. Twitter is very useful, please keep on tweeting
+3. USCIS is not putting OPT as first priority compared to (DACA, etc) due to lack of public attention / exposure
+4. Slow approving speed, USCIS is not giving any other reason except covid
+
 
 ***2/26/2021*** 🎉🎉🎉 Lawsuit reached first milestone, USCIS announced new policy (the lawsuit is still in progress. Next week, the lawyers will discuss with the government to address the issue of extremely long OPT processing time): 
 
