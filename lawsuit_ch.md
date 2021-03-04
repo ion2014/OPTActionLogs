@@ -52,6 +52,12 @@ fourteen (14) days after their application has been adjudicated;<br/>
 <br/>
 <br/>
 
+***03/04/2021*** Update from phone call with Rob:
+1. Interim WA: No response from USCIS today (maybe tomorrow, no guarantee)
+2. Twitter is very useful, please keep on tweeting
+3. USCIS is not putting OPT as first priority compared to (DACA, etc) due to lack of public attention / exposure
+4. Slow approving speed, USCIS is not giving any other reason except covid
+
 ***2/26/2021*** 🎉🎉🎉 诉讼取得初步成果，USCIS政策更新如下（诉讼仍在继续，下周律师将和政府着重讨论解决OPTprocessingtime过长的问题）：<br/>
 由于lockbox延迟的情形，移民局将允许去年10月1号到今年5月1号间递交Regular OPT或是STEM OPT申请但被拒绝的申请人可以享有如下的temporary flexibilities：<br/>
 1. 12个月OPT从批准时间算起，之前签发的不足12个月的OPT可以申请correction<br/>
